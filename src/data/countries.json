@@ -1,0 +1,4083 @@
+{
+  "MM": {
+    "food": [
+      "Mohinga",
+      "Laphet Thoke",
+      "Shan Noodles",
+      "Mont Di",
+      "Ohno Khao Swe"
+    ],
+    "dress": "Longyi with Eingyi blouse for women, Longyi with shirt for men",
+    "festivals": [
+      "Thingyan Water Festival",
+      "Tazaungdaing Festival",
+      "Kason Festival",
+      "Thadingyut Festival"
+    ],
+    "famousPlaces": [
+      "Shwedagon Pagoda",
+      "Bagan Temples",
+      "Inle Lake",
+      "Mandalay Palace",
+      "Kyaiktiyo Pagoda"
+    ],
+    "funFact": "Myanmar has over 2,000 ancient temples and pagodas in Bagan, more than any other place on Earth"
+  },
+  "JP": {
+    "food": [
+      "Sushi",
+      "Ramen",
+      "Tempura",
+      "Takoyaki",
+      "Miso Soup"
+    ],
+    "dress": "Kimono for women, Hakama for men (traditional); modern Western clothing daily",
+    "festivals": [
+      "Hanami Cherry Blossom Festival",
+      "Gion Matsuri",
+      "Obon Festival",
+      "Tanabata"
+    ],
+    "famousPlaces": [
+      "Mount Fuji",
+      "Fushimi Inari Shrine",
+      "Tokyo Tower",
+      "Hiroshima Peace Memorial",
+      "Arashiyama Bamboo Grove"
+    ],
+    "funFact": "Japan has more vending machines per capita than any other country — roughly one for every 23 people"
+  },
+  "US": {
+    "food": [
+      "Hamburger",
+      "BBQ Ribs",
+      "Clam Chowder",
+      "Apple Pie",
+      "Tex-Mex Tacos"
+    ],
+    "dress": "Highly varied by region; jeans and T-shirts are ubiquitous everyday wear",
+    "festivals": [
+      "Thanksgiving",
+      "Independence Day (4th of July)",
+      "Mardi Gras",
+      "Burning Man"
+    ],
+    "famousPlaces": [
+      "Grand Canyon",
+      "Statue of Liberty",
+      "Yellowstone National Park",
+      "Times Square",
+      "Golden Gate Bridge"
+    ],
+    "funFact": "The United States has the world's oldest written national constitution still in use, ratified in 1788"
+  },
+  "GB": {
+    "food": [
+      "Fish and Chips",
+      "Full English Breakfast",
+      "Chicken Tikka Masala",
+      "Cornish Pasty",
+      "Afternoon Tea Scones"
+    ],
+    "dress": "Smart-casual is the norm; tweed jackets and bowler hats are iconic historical symbols",
+    "festivals": [
+      "Notting Hill Carnival",
+      "Guy Fawkes Night",
+      "Edinburgh Fringe Festival",
+      "Glastonbury Music Festival"
+    ],
+    "famousPlaces": [
+      "Big Ben & Houses of Parliament",
+      "Tower of London",
+      "Stonehenge",
+      "Edinburgh Castle",
+      "Lake District"
+    ],
+    "funFact": "The UK invented the World Wide Web, the telephone, and the steam locomotive — all within a few square miles of each other"
+  },
+  "FR": {
+    "food": [
+      "Baguette",
+      "Croissant",
+      "Bouillabaisse",
+      "Ratatouille",
+      "Crêpes"
+    ],
+    "dress": "Chic and understated elegance; the French are famous for effortless fashion",
+    "festivals": [
+      "Bastille Day (14 July)",
+      "Nice Carnival",
+      "Cannes Film Festival",
+      "Fête de la Musique"
+    ],
+    "famousPlaces": [
+      "Eiffel Tower",
+      "Louvre Museum",
+      "Mont Saint-Michel",
+      "Palace of Versailles",
+      "French Riviera"
+    ],
+    "funFact": "France is the most visited country in the world, welcoming nearly 90 million tourists each year"
+  },
+  "DE": {
+    "food": [
+      "Bratwurst",
+      "Pretzels",
+      "Sauerkraut",
+      "Schnitzel",
+      "Black Forest Cake"
+    ],
+    "dress": "Lederhosen for men and Dirndl for women are traditional Bavarian dress worn at festivals",
+    "festivals": [
+      "Oktoberfest",
+      "Christmas Markets (Weihnachtsmarkt)",
+      "Karneval (Cologne)",
+      "Berlin International Film Festival"
+    ],
+    "famousPlaces": [
+      "Brandenburg Gate",
+      "Neuschwanstein Castle",
+      "Cologne Cathedral",
+      "Black Forest",
+      "Rhine Valley"
+    ],
+    "funFact": "Germany has over 1,500 different types of beer and approximately 1,300 breweries"
+  },
+  "IN": {
+    "food": [
+      "Biryani",
+      "Butter Chicken",
+      "Dosa",
+      "Samosa",
+      "Chaat"
+    ],
+    "dress": "Saree and salwar kameez for women, dhoti-kurta or sherwani for men; varies widely by region",
+    "festivals": [
+      "Diwali",
+      "Holi",
+      "Eid al-Fitr",
+      "Durga Puja",
+      "Pongal"
+    ],
+    "famousPlaces": [
+      "Taj Mahal",
+      "Jaipur Amber Fort",
+      "Kerala Backwaters",
+      "Varanasi Ghats",
+      "Hampi Ruins"
+    ],
+    "funFact": "India invented the number system (including zero), chess, and yoga, all of which changed the world forever"
+  },
+  "CN": {
+    "food": [
+      "Peking Duck",
+      "Dim Sum",
+      "Kung Pao Chicken",
+      "Hot Pot",
+      "Xiaolongbao"
+    ],
+    "dress": "Qipao (Cheongsam) for women, Changshan for men are traditional; modern attire is Western-influenced",
+    "festivals": [
+      "Chinese New Year (Spring Festival)",
+      "Mid-Autumn Festival",
+      "Dragon Boat Festival",
+      "Lantern Festival"
+    ],
+    "famousPlaces": [
+      "Great Wall of China",
+      "Forbidden City",
+      "Li River & Guilin",
+      "Zhangjiajie National Forest Park",
+      "West Lake Hangzhou"
+    ],
+    "funFact": "China invented paper, printing, gunpowder, and the compass — the 'Four Great Inventions' that shaped human history"
+  },
+  "TH": {
+    "food": [
+      "Pad Thai",
+      "Tom Yum Goong",
+      "Green Curry",
+      "Som Tum (Papaya Salad)",
+      "Mango Sticky Rice"
+    ],
+    "dress": "Traditional Thai dress is Chut Thai for women and Suea Phraratchathan for men; silk fabrics are iconic",
+    "festivals": [
+      "Songkran Water Festival",
+      "Loy Krathong",
+      "Yi Peng Lantern Festival",
+      "Phi Ta Khon Ghost Festival"
+    ],
+    "famousPlaces": [
+      "Grand Palace Bangkok",
+      "Chiang Mai Temples",
+      "Phi Phi Islands",
+      "Ayutthaya Historical Park",
+      "Khao Yai National Park"
+    ],
+    "funFact": "Thailand is home to the world's largest solid gold Buddha statue, weighing 5.5 tonnes, in Bangkok's Wat Traimit temple"
+  },
+  "KR": {
+    "food": [
+      "Kimchi",
+      "Bibimbap",
+      "Korean BBQ (Bulgogi)",
+      "Tteokbokki",
+      "Japchae"
+    ],
+    "dress": "Hanbok is the traditional clothing worn at festivals and celebrations, with colorful silk and flowing lines",
+    "festivals": [
+      "Chuseok (Harvest Moon Festival)",
+      "Seollal (Lunar New Year)",
+      "Boryeong Mud Festival",
+      "Jinju Lantern Festival"
+    ],
+    "famousPlaces": [
+      "Gyeongbokgung Palace",
+      "Jeju Island",
+      "Bukchon Hanok Village",
+      "Seoraksan National Park",
+      "DMZ Demilitarized Zone"
+    ],
+    "funFact": "South Korea has the world's fastest average internet speed and the highest smartphone penetration rate globally"
+  },
+  "IT": {
+    "food": [
+      "Neapolitan Pizza",
+      "Pasta Carbonara",
+      "Risotto",
+      "Gelato",
+      "Tiramisu"
+    ],
+    "dress": "Italians are world-renowned for fashion (alta moda); regional costumes like the Sardinian Costume are also celebrated",
+    "festivals": [
+      "Venice Carnival",
+      "Palio di Siena",
+      "Infiorata Flower Festival",
+      "Feast of San Gennaro"
+    ],
+    "famousPlaces": [
+      "Colosseum",
+      "Amalfi Coast",
+      "Venice Grand Canal",
+      "Cinque Terre",
+      "Leaning Tower of Pisa"
+    ],
+    "funFact": "Italy has more UNESCO World Heritage Sites than any other country in the world, with 58 listed sites"
+  },
+  "ES": {
+    "food": [
+      "Paella",
+      "Tapas",
+      "Gazpacho",
+      "Churros con Chocolate",
+      "Jamón Ibérico"
+    ],
+    "dress": "Flamenco dress (Traje de Flamenca) for women is iconic; regional costumes vary across autonomous communities",
+    "festivals": [
+      "La Tomatina",
+      "Running of the Bulls (San Fermín)",
+      "Feria de Abril",
+      "Las Fallas"
+    ],
+    "famousPlaces": [
+      "Sagrada Familia",
+      "Alhambra Palace",
+      "Park Güell",
+      "Prado Museum",
+      "Camino de Santiago"
+    ],
+    "funFact": "Spain has the second-largest number of UNESCO Biosphere Reserves in the world and produces 44% of the world's olive oil"
+  },
+  "EG": {
+    "food": [
+      "Koshari",
+      "Ful Medames",
+      "Molokhia",
+      "Fiteer",
+      "Om Ali"
+    ],
+    "dress": "Galabiya (long robe) for men; women commonly wear hijab with modest clothing; traditional Nubian dress is colorful",
+    "festivals": [
+      "Eid al-Adha",
+      "Eid al-Fitr",
+      "Sham El-Nessim (Spring Celebration)",
+      "Abu Simbel Sun Festival"
+    ],
+    "famousPlaces": [
+      "Pyramids of Giza",
+      "Sphinx",
+      "Luxor Temple",
+      "Valley of the Kings",
+      "Abu Simbel"
+    ],
+    "funFact": "Ancient Egyptians invented many things still used today including paper (papyrus), toothpaste, clocks, and the 365-day calendar"
+  },
+  "BR": {
+    "food": [
+      "Feijoada",
+      "Churrasco",
+      "Pão de Queijo",
+      "Brigadeiro",
+      "Moqueca"
+    ],
+    "dress": "Colorful carnival costumes are iconic; everyday dress is casual and beach-influenced in coastal cities",
+    "festivals": [
+      "Rio Carnival",
+      "Festa Junina",
+      "Parintins Folklore Festival",
+      "New Year's Eve at Copacabana"
+    ],
+    "famousPlaces": [
+      "Christ the Redeemer",
+      "Iguazu Falls",
+      "Amazon Rainforest",
+      "Copacabana Beach",
+      "Pantanal Wetlands"
+    ],
+    "funFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen and houses 10% of all species on Earth"
+  },
+  "AU": {
+    "food": [
+      "Vegemite on Toast",
+      "Meat Pie",
+      "Pavlova",
+      "Tim Tams",
+      "Barramundi"
+    ],
+    "dress": "Casual and beach-friendly; the Akubra hat and Driza-Bone coat are iconic outback symbols",
+    "festivals": [
+      "Australia Day",
+      "Vivid Sydney Festival",
+      "Melbourne Cup",
+      "WOMADelaide Music Festival"
+    ],
+    "famousPlaces": [
+      "Sydney Opera House",
+      "Great Barrier Reef",
+      "Uluru (Ayers Rock)",
+      "Great Ocean Road",
+      "Blue Mountains"
+    ],
+    "funFact": "Australia has more species of venomous snakes than any other country, yet snake-bite fatalities are extremely rare"
+  },
+  "MX": {
+    "food": [
+      "Tacos al Pastor",
+      "Mole Poblano",
+      "Chiles en Nogada",
+      "Tamales",
+      "Pozole"
+    ],
+    "dress": "China Poblana for women and Charro suit for men are national traditional costumes; embroidered Huipil blouses are common",
+    "festivals": [
+      "Día de los Muertos (Day of the Dead)",
+      "Guelaguetza",
+      "Cinco de Mayo",
+      "Las Posadas"
+    ],
+    "famousPlaces": [
+      "Chichén Itzá",
+      "Palenque",
+      "Teotihuacan",
+      "Copper Canyon",
+      "Cenotes of Yucatán"
+    ],
+    "funFact": "Mexico City is built on the ancient lake bed of Lake Texcoco and sinks approximately 9 cm per year due to groundwater extraction"
+  },
+  "TR": {
+    "food": [
+      "Kebab",
+      "Baklava",
+      "Meze",
+      "Börek",
+      "Turkish Delight (Lokum)"
+    ],
+    "dress": "Traditional Anatolian costumes include embroidered vests and baggy trousers; Whirling Dervish robes are ceremonial",
+    "festivals": [
+      "Nowruz (Persian New Year)",
+      "Hidrellez Spring Festival",
+      "International Istanbul Film Festival",
+      "Çanakkale TROY Festival"
+    ],
+    "famousPlaces": [
+      "Hagia Sophia",
+      "Cappadocia",
+      "Pamukkale Cotton Castle",
+      "Ephesus Ancient City",
+      "Topkapi Palace"
+    ],
+    "funFact": "Turkey is the birthplace of many things considered Roman or Greek, including the first church built by St. Paul (in Antioch)"
+  },
+  "GR": {
+    "food": [
+      "Moussaka",
+      "Souvlaki",
+      "Spanakopita",
+      "Tzatziki",
+      "Baklava"
+    ],
+    "dress": "Evzone uniform (pleated skirt called fustanella) is the ceremonial national dress; regional folk costumes vary widely",
+    "festivals": [
+      "Athens Epidaurus Festival",
+      "Apokries Carnival",
+      "Easter (Greek Orthodox)",
+      "Thessaloniki International Film Festival"
+    ],
+    "famousPlaces": [
+      "Acropolis of Athens",
+      "Santorini",
+      "Meteora Monasteries",
+      "Delphi",
+      "Corfu Old Town"
+    ],
+    "funFact": "Greece has more archaeological museums than any other country in the world, and Western civilization, democracy, and the Olympics originated here"
+  },
+  "RU": {
+    "food": [
+      "Borscht",
+      "Pelmeni",
+      "Blini",
+      "Beef Stroganoff",
+      "Olivier Salad"
+    ],
+    "dress": "Sarafan (pinafore dress) for women and Kosovorotka shirt for men are traditional; Ushanka fur hat is iconic",
+    "festivals": [
+      "Maslenitsa (Butter Week)",
+      "Victory Day (9 May)",
+      "Ivan Kupala Night",
+      "White Nights Festival St. Petersburg"
+    ],
+    "famousPlaces": [
+      "Red Square & Kremlin",
+      "Lake Baikal",
+      "Trans-Siberian Railway",
+      "Hermitage Museum",
+      "Kamchatka Volcanoes"
+    ],
+    "funFact": "Russia spans 11 time zones and covers one-eighth of Earth's land surface, making it the world's largest country by area"
+  },
+  "ZA": {
+    "food": [
+      "Braai (BBQ)",
+      "Biltong",
+      "Bobotie",
+      "Bunny Chow",
+      "Boerewors"
+    ],
+    "dress": "Zulu beaded necklaces and isicholo hats for women; Xhosa ochre-dyed blankets and beaded accessories are iconic",
+    "festivals": [
+      "Cape Town Carnival",
+      "Hermanus Whale Festival",
+      "Grahamstown National Arts Festival",
+      "Joy of Jazz"
+    ],
+    "famousPlaces": [
+      "Table Mountain",
+      "Kruger National Park",
+      "Robben Island",
+      "Garden Route",
+      "Drakensberg Mountains"
+    ],
+    "funFact": "South Africa is the only country in the world to have voluntarily dismantled its nuclear weapons program"
+  },
+  "ID": {
+    "food": [
+      "Nasi Goreng",
+      "Rendang",
+      "Satay",
+      "Gado-Gado",
+      "Soto Ayam"
+    ],
+    "dress": "Batik fabric clothing is UNESCO-recognized; Kebaya blouse for women and Batik shirt with sarong for men",
+    "festivals": [
+      "Nyepi (Balinese Day of Silence)",
+      "Waisak at Borobudur",
+      "Toraja Funeral Ceremony",
+      "Jember Fashion Carnival"
+    ],
+    "famousPlaces": [
+      "Bali Temples",
+      "Borobudur",
+      "Komodo Island",
+      "Raja Ampat",
+      "Prambanan Temple"
+    ],
+    "funFact": "Indonesia is the world's largest archipelago nation with over 17,000 islands and the fourth most populous country on Earth"
+  },
+  "VN": {
+    "food": [
+      "Pho",
+      "Banh Mi",
+      "Bun Bo Hue",
+      "Banh Xeo",
+      "Cao Lau"
+    ],
+    "dress": "Ao Dai (long tunic over trousers) is the national dress for women; Ao Dai is also worn by men at formal events",
+    "festivals": [
+      "Tet Nguyen Dan (Lunar New Year)",
+      "Hoi An Lantern Festival",
+      "Hue Festival",
+      "Mid-Autumn Festival"
+    ],
+    "famousPlaces": [
+      "Halong Bay",
+      "Hoi An Ancient Town",
+      "My Son Sanctuary",
+      "Phong Nha Caves",
+      "Hue Imperial Citadel"
+    ],
+    "funFact": "Vietnam is the world's largest exporter of cashew nuts and the second-largest exporter of coffee and rice"
+  },
+  "MY": {
+    "food": [
+      "Nasi Lemak",
+      "Char Kway Teow",
+      "Laksa",
+      "Roti Canai",
+      "Satay"
+    ],
+    "dress": "Baju Kurung for women and Baju Melayu for men are the national traditional costumes; Batik is also widely worn",
+    "festivals": [
+      "Hari Raya Aidilfitri",
+      "Chinese New Year",
+      "Deepavali",
+      "Thaipusam",
+      "Wesak Day"
+    ],
+    "famousPlaces": [
+      "Petronas Twin Towers",
+      "Batu Caves",
+      "Langkawi Island",
+      "Mount Kinabalu",
+      "George Town Penang"
+    ],
+    "funFact": "Malaysia's Petronas Twin Towers held the record for the world's tallest buildings from 1998 to 2004"
+  },
+  "SG": {
+    "food": [
+      "Hainanese Chicken Rice",
+      "Chilli Crab",
+      "Laksa",
+      "Char Kway Teow",
+      "Satay"
+    ],
+    "dress": "Singapore has no single traditional dress; Chinese, Malay, and Indian heritage are each reflected in Cheongsam, Baju Kurung, and Saree",
+    "festivals": [
+      "Chinese New Year",
+      "Hari Raya Puasa",
+      "Deepavali",
+      "Thaipusam",
+      "Singapore National Day"
+    ],
+    "famousPlaces": [
+      "Gardens by the Bay",
+      "Marina Bay Sands",
+      "Sentosa Island",
+      "Chinatown",
+      "Orchard Road"
+    ],
+    "funFact": "Singapore is one of only three city-states in the world and has the world's busiest transshipment port by cargo tonnage"
+  },
+  "PH": {
+    "food": [
+      "Adobo",
+      "Sinigang",
+      "Lechon",
+      "Kare-Kare",
+      "Halo-Halo"
+    ],
+    "dress": "Barong Tagalog (embroidered shirt) for men and Baro't Saya for women are the national traditional costumes",
+    "festivals": [
+      "Sinulog Festival",
+      "Ati-Atihan Festival",
+      "Panagbenga Flower Festival",
+      "MassKara Festival"
+    ],
+    "famousPlaces": [
+      "Chocolate Hills Bohol",
+      "Tubbataha Reef",
+      "Mayon Volcano",
+      "Palawan Underground River",
+      "Intramuros Manila"
+    ],
+    "funFact": "The Philippines is the world's second-largest archipelago with 7,641 islands and is the largest English-speaking country in Asia"
+  },
+  "AE": {
+    "food": [
+      "Al Harees",
+      "Machboos",
+      "Luqaimat",
+      "Al Madrooba",
+      "Camel Milk Dishes"
+    ],
+    "dress": "Kandura (white robe) for men and Abaya with Shayla headscarf for women are the traditional Emirati dress",
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "UAE National Day",
+      "Dubai Shopping Festival",
+      "Abu Dhabi Film Festival"
+    ],
+    "famousPlaces": [
+      "Burj Khalifa",
+      "Sheikh Zayed Grand Mosque",
+      "Palm Jumeirah",
+      "Desert Safari Dubai",
+      "Louvre Abu Dhabi"
+    ],
+    "funFact": "The UAE is home to the world's tallest building (Burj Khalifa at 828m) and the world's largest shopping mall (Dubai Mall)"
+  },
+  "NG": {
+    "food": [
+      "Jollof Rice",
+      "Egusi Soup",
+      "Suya",
+      "Pounded Yam with Ogbono",
+      "Akara"
+    ],
+    "dress": "Agbada (flowing robe) for men and Iro and Buba for women are traditional Yoruba dress; Ankara fabric is pan-Nigerian",
+    "festivals": [
+      "Argungu Fishing Festival",
+      "Eyo Festival Lagos",
+      "Durbar Festival Kano",
+      "Osun-Osogbo Sacred Grove Festival"
+    ],
+    "famousPlaces": [
+      "Zuma Rock",
+      "Yankari National Park",
+      "Osun-Osogbo Sacred Grove",
+      "Benin City Walls",
+      "Nike Art Gallery Lagos"
+    ],
+    "funFact": "Nigeria is Africa's most populous nation and largest economy, and Lagos is the fastest-growing megacity in the world"
+  },
+  "KE": {
+    "food": [
+      "Ugali with Sukuma Wiki",
+      "Nyama Choma",
+      "Pilau",
+      "Mandazi",
+      "Githeri"
+    ],
+    "dress": "Maasai Shuka (red blanket) is iconic; Kikoy wrap and Kanga cloth are widely worn traditional garments",
+    "festivals": [
+      "Nairobi International Film Festival",
+      "Lamu Cultural Festival",
+      "Maralal Camel Derby",
+      "Koroga Festival"
+    ],
+    "famousPlaces": [
+      "Maasai Mara National Reserve",
+      "Mount Kenya",
+      "Amboseli National Park",
+      "Lamu Old Town",
+      "Lake Nakuru"
+    ],
+    "funFact": "Kenya is the birthplace of the world-famous safari experience and home to the Great Wildebeest Migration, one of nature's greatest spectacles"
+  },
+  "AR": {
+    "food": [
+      "Asado (BBQ)",
+      "Empanadas",
+      "Milanesa",
+      "Dulce de Leche",
+      "Mate"
+    ],
+    "dress": "Gaucho costume (bombachas, poncho, and beret) is the iconic national traditional dress from the pampas",
+    "festivals": [
+      "Buenos Aires Tango Festival",
+      "Vendimia Grape Harvest Festival",
+      "Carnival of Gualeguaychú",
+      "Cosquín Folklore Festival"
+    ],
+    "famousPlaces": [
+      "Iguazu Falls",
+      "Patagonia & Perito Moreno Glacier",
+      "Buenos Aires Recoleta",
+      "Aconcagua Mountain",
+      "Tierra del Fuego"
+    ],
+    "funFact": "Argentina has produced five Nobel Prize winners, more than any other Latin American country, and tango was born in its capital city"
+  },
+  "PE": {
+    "food": [
+      "Ceviche",
+      "Lomo Saltado",
+      "Aji de Gallina",
+      "Anticuchos",
+      "Causa Limeña"
+    ],
+    "dress": "Women in the highlands wear Pollera (multilayered skirt) with Montero hat; each region has distinct embroidered patterns",
+    "festivals": [
+      "Inti Raymi (Festival of the Sun)",
+      "Corpus Christi Cusco",
+      "Virgen de la Candelaria",
+      "Lord of Miracles Procession"
+    ],
+    "famousPlaces": [
+      "Machu Picchu",
+      "Lake Titicaca",
+      "Nazca Lines",
+      "Amazon River Source",
+      "Colca Canyon"
+    ],
+    "funFact": "Peru is home to Machu Picchu and was the heart of the Inca Empire; the potato originated here and over 3,000 varieties still grow in Peru"
+  },
+  "PT": {
+    "food": [
+      "Pastel de Nata",
+      "Bacalhau (Salt Cod)",
+      "Francesinha",
+      "Caldo Verde",
+      "Piri Piri Chicken"
+    ],
+    "dress": "Traje à Vianesa from Viana do Castelo is a colorful embroidered national costume; black capes are worn in Coimbra",
+    "festivals": [
+      "Festa de São João Porto",
+      "Carnival of Torres Vedras",
+      "Óbidos Medieval Market",
+      "NOS Alive Music Festival"
+    ],
+    "famousPlaces": [
+      "Sintra Palaces",
+      "Lisbon Alfama District",
+      "Douro Valley Wine Region",
+      "Algarve Coastline",
+      "Tower of Belém"
+    ],
+    "funFact": "Portuguese is the sixth most spoken language in the world, and Portugal navigated and mapped most of the world in the Age of Discovery"
+  },
+  "NL": {
+    "food": [
+      "Stroopwafel",
+      "Herring (Haring)",
+      "Stamppot",
+      "Bitterballen",
+      "Pea Soup (Erwtensoep)"
+    ],
+    "dress": "Traditional Volendam costume features white lace caps (kanten muts) for women and wooden clogs (klompen) for both sexes",
+    "festivals": [
+      "King's Day (Koningsdag)",
+      "Amsterdam Light Festival",
+      "Holland Festival",
+      "Liberation Day (5 May)"
+    ],
+    "famousPlaces": [
+      "Anne Frank House",
+      "Rijksmuseum Amsterdam",
+      "Keukenhof Gardens",
+      "Kinderdijk Windmills",
+      "Zaanse Schans"
+    ],
+    "funFact": "The Netherlands is the world's second-largest exporter of food and agricultural products, after the United States"
+  },
+  "SE": {
+    "food": [
+      "Swedish Meatballs",
+      "Gravlax",
+      "Smörgåsbord",
+      "Cinnamon Bun (Kanelbulle)",
+      "Surströmming"
+    ],
+    "dress": "Folk costume (folkdräkt) varies by region; the Dala horse is an iconic national symbol; Viking-inspired imagery is celebrated",
+    "festivals": [
+      "Midsommar (Midsummer)",
+      "Lucia Day (13 December)",
+      "Crayfish Party (Kräftskiva)",
+      "Stockholm Pride"
+    ],
+    "famousPlaces": [
+      "Gamla Stan Stockholm",
+      "ABBA Museum",
+      "Icehotel Jukkasjärvi",
+      "Gothenburg Archipelago",
+      "Visby Medieval Town"
+    ],
+    "funFact": "Sweden invented the adjustable wrench, zipper, pacemaker, Bluetooth, Spotify, and safety match — a remarkable record of innovation per capita"
+  },
+  "NO": {
+    "food": [
+      "Rakfisk",
+      "Fårikål (Mutton Stew)",
+      "Lutefisk",
+      "Kjøttkaker",
+      "Brown Cheese (Brunost)"
+    ],
+    "dress": "Bunad is the national costume, unique to each region, worn at Constitution Day celebrations; Viking heritage is celebrated",
+    "festivals": [
+      "Constitution Day (17 May)",
+      "Bergen International Festival",
+      "Sámi National Day",
+      "Norwegian Wood Music Festival"
+    ],
+    "famousPlaces": [
+      "Fjords of Norway (Geirangerfjord)",
+      "Northern Lights (Tromsø)",
+      "Preikestolen (Pulpit Rock)",
+      "Bryggen Wharf Bergen",
+      "Lofoten Islands"
+    ],
+    "funFact": "Norway consistently ranks as the world's happiest country and has the world's largest sovereign wealth fund, worth over $1.4 trillion"
+  },
+  "PL": {
+    "food": [
+      "Pierogi",
+      "Żurek (Sour Rye Soup)",
+      "Bigos (Hunter's Stew)",
+      "Kielbasa",
+      "Makowiec (Poppy Seed Roll)"
+    ],
+    "dress": "Krakowiak (Kraków costume) with colorful embroidery is one of Poland's most recognized national folk costumes",
+    "festivals": [
+      "Wianki (Midsummer Wreath Festival)",
+      "Kraków Film Festival",
+      "Pierogi Festival",
+      "Christmas Eve (Wigilia)"
+    ],
+    "famousPlaces": [
+      "Auschwitz-Birkenau Memorial",
+      "Kraków Old Town",
+      "Wieliczka Salt Mine",
+      "Warsaw Royal Castle",
+      "Białowieża Forest"
+    ],
+    "funFact": "Poland's Białowieża Forest is the last primeval forest in Europe and home to the continent's largest land animal, the European bison"
+  },
+  "NP": {
+    "food": [
+      "Dal Bhat",
+      "Momo",
+      "Sel Roti",
+      "Gundruk",
+      "Thukpa"
+    ],
+    "dress": "Daura Suruwal (cross-collar shirt with trousers) for men and Gunyo Cholo for women are the national traditional costumes",
+    "festivals": [
+      "Dashain",
+      "Tihar (Festival of Lights)",
+      "Indra Jatra",
+      "Holi",
+      "Bisket Jatra"
+    ],
+    "famousPlaces": [
+      "Mount Everest",
+      "Pashupatinath Temple",
+      "Boudhanath Stupa",
+      "Pokhara & Phewa Lake",
+      "Chitwan National Park"
+    ],
+    "funFact": "Nepal is home to eight of the world's ten highest mountain peaks, including Mount Everest, the highest point on Earth at 8,849 metres"
+  },
+  "KH": {
+    "food": [
+      "Amok (Fish Curry)",
+      "Bai Sach Chrouk",
+      "Nom Banh Chok",
+      "Lok Lak",
+      "Kuy Teav"
+    ],
+    "dress": "Sampot (wraparound skirt) is the traditional Khmer dress; Krama (checkered scarf) is an iconic Cambodian accessory",
+    "festivals": [
+      "Khmer New Year (Chaul Chnam Thmey)",
+      "Water Festival (Bon Om Touk)",
+      "Pchum Ben (Ancestors' Day)",
+      "Royal Ploughing Ceremony"
+    ],
+    "famousPlaces": [
+      "Angkor Wat",
+      "Bayon Temple",
+      "Ta Prohm Jungle Temple",
+      "Tonle Sap Lake",
+      "Royal Palace Phnom Penh"
+    ],
+    "funFact": "Angkor Wat is the world's largest religious monument and took over 30 years to build, employing an estimated 300,000 workers"
+  },
+  "LA": {
+    "food": [
+      "Larb (Minced Meat Salad)",
+      "Sticky Rice",
+      "Tam Mak Hoong (Green Papaya Salad)",
+      "Khao Piak Sen",
+      "Mok Pa (Steamed Fish)"
+    ],
+    "dress": "Sinh (silk tube skirt) for women and Salong (baggy trousers) for men are traditional Lao dress",
+    "festivals": [
+      "Pi Mai Lao (Lao New Year)",
+      "Boun Bang Fai (Rocket Festival)",
+      "That Luang Festival",
+      "Boun Ok Phansa"
+    ],
+    "famousPlaces": [
+      "Luang Prabang Old Town",
+      "Kuang Si Waterfalls",
+      "Plain of Jars",
+      "Vat Phou Temple",
+      "Mekong River"
+    ],
+    "funFact": "Laos is the most bombed country per capita in history; the US dropped more than 2 million tons of bombs during the Vietnam War era"
+  },
+  "BD": {
+    "food": [
+      "Hilsa Fish Curry",
+      "Biryani",
+      "Pitha (Rice Cakes)",
+      "Shorshe Ilish",
+      "Mishti Doi"
+    ],
+    "dress": "Saree for women and Panjabi (Kurta) with Lungi for men; Jamdani muslin saree is a UNESCO-recognized craft",
+    "festivals": [
+      "Pohela Boishakh (Bengali New Year)",
+      "Eid al-Fitr",
+      "Durga Puja",
+      "Ekushey February (Language Martyrs' Day)"
+    ],
+    "famousPlaces": [
+      "Sundarbans Mangrove Forest",
+      "Lalbagh Fort Dhaka",
+      "Cox's Bazar Beach",
+      "Somapura Mahavihara",
+      "Sixty Dome Mosque Bagerhat"
+    ],
+    "funFact": "Cox's Bazar in Bangladesh is the world's longest natural sea beach, stretching an unbroken 120 km along the Bay of Bengal"
+  },
+  "LK": {
+    "food": [
+      "Rice and Curry",
+      "Hoppers (Appam)",
+      "Kottu Roti",
+      "String Hoppers",
+      "Lamprais"
+    ],
+    "dress": "Kandyan Osariya (saree style) for women and Kandyan national dress for men are traditional; white cotton is culturally significant",
+    "festivals": [
+      "Esala Perahera (Kandy)",
+      "Sinhala and Tamil New Year",
+      "Vesak Poya",
+      "Deepavali"
+    ],
+    "famousPlaces": [
+      "Sigiriya Rock Fortress",
+      "Temple of the Tooth Kandy",
+      "Yala National Park",
+      "Galle Dutch Fort",
+      "Ella Rock"
+    ],
+    "funFact": "Sri Lanka was known as Ceylon and is the world's leading exporter of Ceylon tea; the island also has the oldest documented tree in the world"
+  },
+  "PK": {
+    "food": [
+      "Biryani",
+      "Nihari",
+      "Karahi",
+      "Haleem",
+      "Chapli Kebab"
+    ],
+    "dress": "Shalwar Kameez is the national dress for both men and women; the Ajrak shawl from Sindh is a UNESCO-recognized craft",
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Basant Kite Festival",
+      "Shandur Polo Festival",
+      "Lahore Literary Festival"
+    ],
+    "famousPlaces": [
+      "Lahore Fort & Badshahi Mosque",
+      "Mohenjo-daro",
+      "K2 Base Camp",
+      "Shalimar Gardens",
+      "Rohtas Fort"
+    ],
+    "funFact": "Pakistan is home to K2, the world's second-highest mountain, and has the largest glaciers outside the polar regions"
+  },
+  "IR": {
+    "food": [
+      "Ghormeh Sabzi",
+      "Chelow Kabab",
+      "Ash Reshteh",
+      "Fesenjan",
+      "Tahdig (Crispy Rice)"
+    ],
+    "dress": "Women wear Chador or Hijab with manteau; men wear formal shirts; traditional costume includes embroidered Baluchi and Kurdish dress",
+    "festivals": [
+      "Nowruz (Persian New Year)",
+      "Yalda Night (Winter Solstice)",
+      "Chaharshanbe Suri (Fire Festival)",
+      "Sizdah Bedar"
+    ],
+    "famousPlaces": [
+      "Persepolis",
+      "Nasir al-Mulk Mosque Shiraz",
+      "Isfahan Naqsh-e Jahan Square",
+      "Golestan Palace Tehran",
+      "Lut Desert"
+    ],
+    "funFact": "Iran is home to one of the world's oldest civilizations and Persian culture gave humanity the concepts of chess, polo, and algebra"
+  },
+  "SA": {
+    "food": [
+      "Kabsa (National Rice Dish)",
+      "Mandi",
+      "Jareesh",
+      "Mutabbaq",
+      "Samboosa"
+    ],
+    "dress": "Thobe (white robe) with Keffiyeh headscarf for men; Abaya with Niqab or Hijab for women is traditional",
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Saudi National Day (23 September)",
+      "Janadriyah Cultural Festival"
+    ],
+    "famousPlaces": [
+      "Masjid al-Haram Mecca",
+      "Masjid al-Nabawi Medina",
+      "Hegra (Mada'in Salih)",
+      "Al-Ula",
+      "Edge of the World Riyadh"
+    ],
+    "funFact": "Saudi Arabia contains the two holiest cities in Islam — Mecca and Medina — and is home to Mada'in Salih, a UNESCO World Heritage Site older than Petra"
+  },
+  "MA": {
+    "food": [
+      "Tagine",
+      "Couscous",
+      "Harira Soup",
+      "Pastilla",
+      "Msemen"
+    ],
+    "dress": "Djellaba (hooded robe) for both sexes; Caftan for women on special occasions; Fez hat is an iconic Moroccan accessory",
+    "festivals": [
+      "Marrakech Popular Arts Festival",
+      "Gnaoua World Music Festival Essaouira",
+      "Eid al-Adha",
+      "Fes Sacred Music Festival"
+    ],
+    "famousPlaces": [
+      "Marrakech Medina",
+      "Fes El-Bali",
+      "Sahara Desert Merzouga",
+      "Chefchaouen Blue City",
+      "Ait Benhaddou Kasbah"
+    ],
+    "funFact": "The University of al-Qarawiyyin in Fes, Morocco, founded in 859 CE, is the world's oldest continuously operating university"
+  },
+  "ET": {
+    "food": [
+      "Injera with Wat (Stew)",
+      "Tibs (Sautéed Meat)",
+      "Kitfo (Ethiopian Steak Tartare)",
+      "Shiro",
+      "Tej (Honey Wine)"
+    ],
+    "dress": "Habesha Kemis (white cotton dress with embroidery) for women; Netela shawl is worn by both sexes as a wrap",
+    "festivals": [
+      "Timkat (Ethiopian Epiphany)",
+      "Meskel (Finding of the True Cross)",
+      "Ethiopian New Year (Enkutatash)",
+      "Irreecha (Oromo Thanksgiving)"
+    ],
+    "famousPlaces": [
+      "Lalibela Rock Churches",
+      "Simien Mountains",
+      "Aksum Obelisks",
+      "Danakil Depression",
+      "Omo Valley Tribes"
+    ],
+    "funFact": "Ethiopia has its own unique calendar with 13 months and is approximately 7–8 years behind the Gregorian calendar, making it 'the land where time stands still'"
+  },
+  "CO": {
+    "food": [
+      "Bandeja Paisa",
+      "Ajiaco (Potato Soup)",
+      "Empanadas",
+      "Sancocho",
+      "Arepa"
+    ],
+    "dress": "Vueltiao hat (woven cane hat) and Pollera dress for women are iconic Colombian national symbols; Carriel bag is traditional from Antioquia",
+    "festivals": [
+      "Barranquilla Carnival (UNESCO-listed)",
+      "Medellín Flower Festival",
+      "Bogotá Jazz Festival",
+      "Black and White Carnival Pasto"
+    ],
+    "famousPlaces": [
+      "Cartagena Walled City",
+      "Coffee Cultural Landscape",
+      "Tayrona National Park",
+      "Ciudad Perdida",
+      "Caño Cristales River"
+    ],
+    "funFact": "Colombia is the only country in South America with coastlines on both the Pacific Ocean and the Caribbean Sea"
+  },
+  "CL": {
+    "food": [
+      "Completo (Chilean Hot Dog)",
+      "Empanadas de Pino",
+      "Cazuela",
+      "Curanto",
+      "Pastel de Choclo"
+    ],
+    "dress": "Huaso costume — poncho, wide-brimmed hat, and carved spurs — is the national costume representing the Chilean cowboy tradition",
+    "festivals": [
+      "Chilean National Holiday (Fiestas Patrias)",
+      "Grape Harvest Festival",
+      "Torres del Paine Ultra",
+      "Carnival of Arica"
+    ],
+    "famousPlaces": [
+      "Torres del Paine",
+      "Easter Island (Rapa Nui)",
+      "Atacama Desert",
+      "Marble Caves Patagonia",
+      "Valparaíso"
+    ],
+    "funFact": "Chile is the world's longest country from north to south, spanning 4,300 km, and contains the Atacama Desert, the driest place on Earth"
+  },
+  "UA": {
+    "food": [
+      "Borscht",
+      "Varenyky (Dumplings)",
+      "Chicken Kyiv",
+      "Salo (Cured Pork Fat)",
+      "Pampushky (Garlic Bread)"
+    ],
+    "dress": "Vyshyvanka (embroidered shirt) is the national symbol; women wear flower wreaths (Vinok) with ribbons; Hutsul regional costumes are elaborate",
+    "festivals": [
+      "Vyshyvanka Day",
+      "Ivan Kupala Night",
+      "Malanka (Ukrainian New Year)",
+      "Lviv Coffee Festival"
+    ],
+    "famousPlaces": [
+      "Kyiv Pechersk Lavra (Monastery of the Caves)",
+      "Lviv Old Town",
+      "Sofiyivka Park Uman",
+      "Khotyn Fortress",
+      "Carpathian Mountains"
+    ],
+    "funFact": "Ukraine is the largest country entirely within Europe and its black soil (chernozem) is so fertile that Ukraine was once known as the 'breadbasket of Europe'"
+  },
+  "CZ": {
+    "food": [
+      "Svíčková (Beef Sirloin)",
+      "Trdelník",
+      "Goulash with Bread Dumplings",
+      "Fried Cheese (Smažený sýr)",
+      "Bramboráky (Potato Pancakes)"
+    ],
+    "dress": "Czech folk costume varies by region; Moravian costumes from Slovácko feature elaborate embroidery and are worn at folk festivals",
+    "festivals": [
+      "Prague Spring Music Festival",
+      "Masopust (Czech Carnival)",
+      "Bohemian Carnival",
+      "Signal Festival Prague"
+    ],
+    "famousPlaces": [
+      "Prague Castle",
+      "Charles Bridge",
+      "Český Krumlov",
+      "Kutná Hora Bone Church",
+      "Bohemian Switzerland National Park"
+    ],
+    "funFact": "The Czech Republic has the highest beer consumption per capita in the world, and Czech Pilsner-style beer (invented in Plzeň in 1842) is the most popular beer style globally"
+  },
+  "HU": {
+    "food": [
+      "Goulash (Gulyás)",
+      "Chicken Paprikash",
+      "Lángos",
+      "Chimney Cake (Kürtőskalács)",
+      "Fisherman's Soup (Halászlé)"
+    ],
+    "dress": "Hungarian folk costume features embroidered Matyo patterns; Kalocsa embroidery (UNESCO-listed) in red, blue, and green is iconic",
+    "festivals": [
+      "Budapest International Wine Festival",
+      "Busójárás (Mohács Carnival)",
+      "Budapest Summer Festival",
+      "Sziget Music Festival"
+    ],
+    "famousPlaces": [
+      "Hungarian Parliament Building",
+      "Thermal Baths Budapest",
+      "Lake Balaton",
+      "Eger Castle",
+      "Hortobágy National Park"
+    ],
+    "funFact": "Hungary has produced 13 Nobel Prize winners per million population — one of the highest rates in the world — and Hungarian inventors created the Rubik's Cube, ballpoint pen, and holography"
+  },
+  "CA": {
+    "food": [
+      "Poutine",
+      "Maple Syrup",
+      "Nanaimo Bars",
+      "Butter Tarts",
+      "Montreal Smoked Meat"
+    ],
+    "dress": "Mainly Western styles; the RCMP 'Red Serge' is an iconic ceremonial uniform",
+    "festivals": [
+      "Quebec Winter Carnival",
+      "Calgary Stampede",
+      "Toronto International Film Festival",
+      "Canada Day"
+    ],
+    "famousPlaces": [
+      "Banff National Park",
+      "Niagara Falls",
+      "CN Tower",
+      "Old Quebec",
+      "Whistler Blackcomb"
+    ],
+    "funFact": "Canada has more lakes than the rest of the world's lakes combined."
+  },
+  "NZ": {
+    "food": [
+      "Hangi",
+      "Pavlova",
+      "Lolly Cake",
+      "Kiwifruit",
+      "Lamb Roast"
+    ],
+    "dress": "Casual and outdoor-oriented; traditional Māori dress includes feathered cloaks (Korowai)",
+    "festivals": [
+      "Matariki (Māori New Year)",
+      "Waitangi Day",
+      "Pasifika Festival",
+      "World of WearableArt"
+    ],
+    "famousPlaces": [
+      "Milford Sound",
+      "Hobbiton Movie Set",
+      "Waitomo Caves",
+      "Aoraki / Mount Cook",
+      "Rotorua Geothermal Area"
+    ],
+    "funFact": "There are no snakes in New Zealand, and there are about 5 sheep for every human."
+  },
+  "AT": {
+    "food": [
+      "Wiener Schnitzel",
+      "Sachertorte",
+      "Apfelstrudel",
+      "Tafelspitz",
+      "Knödel"
+    ],
+    "dress": "Lederhosen for men and Dirndl for women are traditional Alpine attire",
+    "festivals": [
+      "Salzburg Festival",
+      "Vienna Opera Ball",
+      "Life Ball",
+      "Bregenzer Festspiele"
+    ],
+    "famousPlaces": [
+      "Schönbrunn Palace",
+      "Hallstatt",
+      "St. Stephen's Cathedral",
+      "Grossglockner High Alpine Road",
+      "Melk Abbey"
+    ],
+    "funFact": "Austria is the only EU country that is not a member of NATO."
+  },
+  "BE": {
+    "food": [
+      "Belgian Waffles",
+      "Mussels with Fries (Moules-Frites)",
+      "Chocolate",
+      "Speculoos",
+      "Trappist Beer"
+    ],
+    "dress": "Modern Western clothing; historical lace-making has influenced traditional accessories",
+    "festivals": [
+      "Carnival of Binche",
+      "Tomorrowland",
+      "Gentse Feesten",
+      "Flower Carpet Brussels"
+    ],
+    "famousPlaces": [
+      "Grand Place Brussels",
+      "Brugge Canals",
+      "Atomium",
+      "Gravensteen Castle",
+      "Ardennes Forest"
+    ],
+    "funFact": "Belgium produces over 220,000 tonnes of chocolate per year."
+  },
+  "CH": {
+    "food": [
+      "Cheese Fondue",
+      "Raclette",
+      "Rösti",
+      "Zürcher Geschnetzeltes",
+      "Swiss Chocolate"
+    ],
+    "dress": "Varies by canton; Edelweiss shirts and traditional folk dresses are worn at festivals",
+    "festivals": [
+      "Fête des Vignerons",
+      "Montreux Jazz Festival",
+      "Basler Fasnacht",
+      "Paléo Festival"
+    ],
+    "famousPlaces": [
+      "The Matterhorn",
+      "Jungfraujoch",
+      "Lucerne Chapel Bridge",
+      "Chillon Castle",
+      "Reinfall (Rhine Falls)"
+    ],
+    "funFact": "Switzerland has enough nuclear fallout shelters to accommodate its entire human population."
+  },
+  "DK": {
+    "food": [
+      "Smørrebrød",
+      "Frikadeller",
+      "Æbleskiver",
+      "Wienerbrød (Danish Pastry)",
+      "Stegt Flæsk"
+    ],
+    "dress": "Modern Scandinavian style; historical regional costumes (Folkedragt) feature elaborate embroidery",
+    "festivals": [
+      "Roskilde Festival",
+      "Copenhagen Jazz Festival",
+      "Distortion Nightlife Festival",
+      "Saint Lucia's Day"
+    ],
+    "famousPlaces": [
+      "The Little Mermaid",
+      "Tivoli Gardens",
+      "Nyhavn",
+      "Legoland Billund",
+      "Kronborg Castle"
+    ],
+    "funFact": "The Danish flag, the Dannebrog, is the oldest continuously used national flag in the world, dating back to 1219."
+  },
+  "FI": {
+    "food": [
+      "Karjalanpiirakka (Karelian Pasty)",
+      "Leipäjuusto (Squeaky Cheese)",
+      "Ruisleipä (Rye Bread)",
+      "Lohikeitto (Salmon Soup)",
+      "Salmiakki"
+    ],
+    "dress": "Regional folk costumes (Kansallispuku) are worn at formal celebrations; Sami dress is iconic in Lapland",
+    "festivals": [
+      "Midsummer (Juhannus)",
+      "Vappu (May Day)",
+      "Savonlinna Opera Festival",
+      "Flow Festival"
+    ],
+    "famousPlaces": [
+      "Santa Claus Village",
+      "Suomenlinna Fortress",
+      "Northern Lights in Lapland",
+      "Helsinki Cathedral",
+      "Lake Saimaa"
+    ],
+    "funFact": "Finland has more saunas than it has cars — about 3 million saunas for 5.5 million people."
+  },
+  "IE": {
+    "food": [
+      "Irish Stew",
+      "Boxty",
+      "Soda Bread",
+      "Coddle",
+      "Colcannon"
+    ],
+    "dress": "Modern clothing; Aran sweaters and linen fabrics are traditional textile heritages",
+    "festivals": [
+      "St. Patrick's Day",
+      "Fleadh Cheoil na hÉireann",
+      "Puck Fair",
+      "Wren Day"
+    ],
+    "famousPlaces": [
+      "Cliffs of Moher",
+      "Guinness Storehouse",
+      "Ring of Kerry",
+      "Giant's Causeway",
+      "Rock of Cashel"
+    ],
+    "funFact": "Ireland has the highest number of red-haired people per capita in the world."
+  },
+  "IS": {
+    "food": [
+      "Hákarl (Fermented Shark)",
+      "Plokkfiskur",
+      "Rúgbrauð",
+      "Skyr",
+      "Hangikjöt"
+    ],
+    "dress": "Lopapeysa (Icelandic wool sweater) is a modern national symbol; traditional dress (Þjóðbúningurinn) is ceremonial",
+    "festivals": [
+      "Iceland Airwaves",
+      "Þorrablót",
+      "Winter Lights Festival",
+      "National Day (June 17)"
+    ],
+    "famousPlaces": [
+      "Blue Lagoon",
+      "Gullfoss Waterfall",
+      "Vatnajökull Glacier",
+      "Skógafoss",
+      "Hallgrímskirkja"
+    ],
+    "funFact": "Iceland doesn't have a single McDonald's restaurant in the entire country."
+  },
+  "LU": {
+    "food": [
+      "Judd mat Gaardebounen",
+      "Gromperekichelcher",
+      "Quetschentaart",
+      "Bouneschlupp",
+      "Kniddelen"
+    ],
+    "dress": "Modern European styles; traditional dress is mainly seen in historical reenactments",
+    "festivals": [
+      "Schueberfouer",
+      "National Day",
+      "Procession of Echternach",
+      "Emaischen"
+    ],
+    "famousPlaces": [
+      "Casemates du Bock",
+      "Grand Ducal Palace",
+      "Vianden Castle",
+      "Mullerthal Region",
+      "Place d'Armes"
+    ],
+    "funFact": "Luxembourg is the only remaining Grand Duchy in the world."
+  },
+  "RO": {
+    "food": [
+      "Sarmale",
+      "Mămăligă",
+      "Mici",
+      "Papanăși",
+      "Ciorbă de burtă"
+    ],
+    "dress": "Embroidered peasant blouses (IA) are a symbol of national identity and a UNESCO craft",
+    "festivals": [
+      "Untold Festival",
+      "Sighișoara Medieval Festival",
+      "Dragobete (Day of Love)",
+      "Junii Sibiului"
+    ],
+    "famousPlaces": [
+      "Bran Castle (Dracula's Castle)",
+      "Peleș Castle",
+      "Transfăgărășan Highway",
+      "Danube Delta",
+      "Merry Cemetery"
+    ],
+    "funFact": "The Palace of the Parliament in Bucharest is the second-largest administrative building in the world after the Pentagon."
+  },
+  "RS": {
+    "food": [
+      "Ćevapi",
+      "Sarma",
+      "Ajvar",
+      "Pljeskavica",
+      "Gibanica"
+    ],
+    "dress": "Traditional Opanci (shoes) and Sajkača (hat) are iconic parts of Serbian folk costume",
+    "festivals": [
+      "EXIT Festival",
+      "Guča Trumpet Festival",
+      "Belgrade Beer Fest",
+      "Slava (Family Patron Saint Day)"
+    ],
+    "famousPlaces": [
+      "Belgrade Fortress",
+      "Đavolja Varoš (Devil's Town)",
+      "Tara National Park",
+      "Studenica Monastery",
+      "Zlatibor"
+    ],
+    "funFact": "Serbia is one of the world's largest exporters of raspberries."
+  },
+  "SK": {
+    "food": [
+      "Bryndzové Halušky",
+      "Kapustnica",
+      "Zemiakové placky",
+      "Šúľance",
+      "Parenica"
+    ],
+    "dress": "Highly diverse regional folk costumes (Kroj) with intricate embroidery and lace",
+    "festivals": [
+      "Východná Folklore Festival",
+      "Pohoda Festival",
+      "Corpus Christi (Bratislava)",
+      "Christmas Markets"
+    ],
+    "famousPlaces": [
+      "Spiš Castle",
+      "High Tatras",
+      "Bratislava Castle",
+      "Dobšinská Ice Cave",
+      "Vlkolinec"
+    ],
+    "funFact": "Slovakia has the highest concentration of castles and chateaux per capita in the world."
+  },
+  "BG": {
+    "food": [
+      "Banitsa",
+      "Shopska Salad",
+      "Kavarma",
+      "Lyutenitsa",
+      "Tarator"
+    ],
+    "dress": "Traditional costumes (Nosiya) feature geometric patterns and are unique to each ethnographic region",
+    "festivals": [
+      "Surva Festival",
+      "Rose Festival (Kazanlak)",
+      "Nestinari (Fire Walking)",
+      "Kukeri"
+    ],
+    "famousPlaces": [
+      "Rila Monastery",
+      "Plovdiv Old Town",
+      "Alexander Nevsky Cathedral",
+      "Seven Rila Lakes",
+      "Nesebar"
+    ],
+    "funFact": "Bulgaria is the only country in Europe that hasn't changed its name since it was first established in 681 AD."
+  },
+  "HR": {
+    "food": [
+      "Crni Rižot (Black Risotto)",
+      "Peka",
+      "Pašticada",
+      "Fritule",
+      "Kulen"
+    ],
+    "dress": "Regional costumes vary from the white linen of Slavonia to the colorful embroidery of Dalmatia",
+    "festivals": [
+      "Dubrovnik Summer Festival",
+      "Ultra Europe",
+      "Sinjska Alka",
+      "Rijeka Carnival"
+    ],
+    "famousPlaces": [
+      "Plitvice Lakes National Park",
+      "Dubrovnik Old Town Walls",
+      "Diocletian's Palace",
+      "Hvar Island",
+      "Pula Arena"
+    ],
+    "funFact": "The necktie (cravat) originated from the scarves worn by Croatian soldiers in the 17th century."
+  },
+  "SI": {
+    "food": [
+      "Potica",
+      "Kranjska klobasa",
+      "Štruklji",
+      "Bled Cream Cake",
+      "Jota"
+    ],
+    "dress": "Gorenjska region's costume is the most recognized national folk dress",
+    "festivals": [
+      "Kurentovanje",
+      "Ljubljana Festival",
+      "Festival Lent",
+      "Cow's Ball in Bohinj"
+    ],
+    "famousPlaces": [
+      "Lake Bled",
+      "Postojna Cave",
+      "Ljubljana Castle",
+      "Piran",
+      "Vršič Pass"
+    ],
+    "funFact": "Slovenia is the only country in the world with the word 'love' in its name."
+  },
+  "EE": {
+    "food": [
+      "Verivorst (Blood Sausage)",
+      "Kiluvõileib (Sprat Sandwich)",
+      "Mulgipuder",
+      "Kama",
+      "Kohuke"
+    ],
+    "dress": "Traditional folk costumes feature bright colors and striped skirts; the 'Sõba' shawl is iconic",
+    "festivals": [
+      "Estonian Song Festival",
+      "Viljandi Folk Music Festival",
+      "Black Nights Film Festival",
+      "White Nights"
+    ],
+    "famousPlaces": [
+      "Tallinn Old Town",
+      "Lahemaa National Park",
+      "Saaremaa Island",
+      "Tartu University City",
+      "Soomaa National Park"
+    ],
+    "funFact": "Estonia was the first country in the world to adopt online voting in 2005."
+  },
+  "LV": {
+    "food": [
+      "Grey Peas with Speck",
+      "Rye Bread (Rupjmaize)",
+      "Sklandrausis",
+      "Biešu Zupa",
+      "Latvian Beer"
+    ],
+    "dress": "Ancient archaeological jewelry and woven flower crowns are traditional attire symbols",
+    "festivals": [
+      "Līgo and Jāņi (Summer Solstice)",
+      "Latvian Song and Dance Festival",
+      "Staro Rīga Light Festival",
+      "Metenis"
+    ],
+    "famousPlaces": [
+      "Riga Old Town",
+      "Jūrmala Beach",
+      "Gauja National Park",
+      "Rundāle Palace",
+      "Kuldīga Waterfall"
+    ],
+    "funFact": "Over half of Latvia is covered by forest, making it one of the greenest countries in Europe."
+  },
+  "LT": {
+    "food": [
+      "Cepelinai",
+      "Šaltibarščiai (Cold Beet Soup)",
+      "Kugelis",
+      "Šakotis",
+      "Balandėliai"
+    ],
+    "dress": "Linen clothing with amber jewelry is the traditional Lithuanian aesthetic",
+    "festivals": [
+      "Kaziukas Fair",
+      "St. John's Day (Joninės)",
+      "Lithuanian Song Festival",
+      "Užgavėnės"
+    ],
+    "famousPlaces": [
+      "Hill of Crosses",
+      "Trakai Island Castle",
+      "Curonian Spit",
+      "Vilnius Old Town",
+      "Gediminas Tower"
+    ],
+    "funFact": "Lithuanian is one of the oldest living languages in the world, sharing many similarities with Sanskrit."
+  },
+  "IL": {
+    "food": [
+      "Falafel",
+      "Hummus",
+      "Shakshuka",
+      "Sabich",
+      "Knafeh"
+    ],
+    "dress": "Highly diverse; from secular modern fashion to traditional Orthodox Jewish or Bedouin attire",
+    "festivals": [
+      "Purim",
+      "Hanukkah",
+      "Sukkot",
+      "Yom Ha'atzmaut"
+    ],
+    "famousPlaces": [
+      "Western Wall",
+      "Sea of Galilee",
+      "Masada",
+      "Dead Sea",
+      "Bahá'í Gardens Haifa"
+    ],
+    "funFact": "The Dead Sea in Israel is the lowest point on Earth's land surface, at 430 meters below sea level."
+  },
+  "JO": {
+    "food": [
+      "Mansaf",
+      "Maqluba",
+      "Falafel",
+      "Knafeh",
+      "Zarb"
+    ],
+    "dress": "Keffiyeh headscarf (Shemagh) for men and embroidered Kaftan for women are traditional",
+    "festivals": [
+      "Jerash Festival",
+      "Amman Summer Festival",
+      "Eid al-Adha",
+      "Independence Day"
+    ],
+    "famousPlaces": [
+      "Petra",
+      "Wadi Rum",
+      "Dead Sea",
+      "Jerash Ruins",
+      "Mount Nebo"
+    ],
+    "funFact": "Petra was 'lost' to the Western world for hundreds of years until it was rediscovered in 1812."
+  },
+  "LB": {
+    "food": [
+      "Kibbeh",
+      "Tabbouleh",
+      "Fattoush",
+      "Manakish",
+      "Hummus"
+    ],
+    "dress": "Modern fashion-forward; traditional Sherwal (baggy trousers) are worn in some mountain villages",
+    "festivals": [
+      "Baalbeck International Festival",
+      "Byblos International Festival",
+      "Beiteddine Art Festival"
+    ],
+    "famousPlaces": [
+      "Jeita Grotto",
+      "Byblos Castle",
+      "Cedars of God",
+      "Beirut Downtown",
+      "Baalbeck Temples"
+    ],
+    "funFact": "Lebanon is the only Middle Eastern country without a desert."
+  },
+  "QA": {
+    "food": [
+      "Machboos",
+      "Harees",
+      "Luqaimat",
+      "Madrouba",
+      "Tharid"
+    ],
+    "dress": "Thobe for men and Abaya for women; the Ghutra headpiece is universal for Qatari men",
+    "festivals": [
+      "Doha Cultural Festival",
+      "Qatar International Food Festival",
+      "National Day (December 18)"
+    ],
+    "famousPlaces": [
+      "Museum of Islamic Art",
+      "Souq Waqif",
+      "The Pearl-Qatar",
+      "Khor Al Adaid",
+      "Katara Cultural Village"
+    ],
+    "funFact": "Qatar is the wealthiest country per capita in the world and has no income tax."
+  },
+  "OM": {
+    "food": [
+      "Shuwa",
+      "Majboos",
+      "Omani Halwa",
+      "Mashuai",
+      "Harees"
+    ],
+    "dress": "Dishdasha (robe) with Mussar (turban) and Khanjar (dagger) for men; colorful embroidered dress for women",
+    "festivals": [
+      "Muscat Festival",
+      "Salalah Khareef Festival",
+      "Eid al-Fitr",
+      "Renaissance Day"
+    ],
+    "famousPlaces": [
+      "Sultan Qaboos Grand Mosque",
+      "Wahiba Sands",
+      "Bimmah Sinkhole",
+      "Nizwa Fort",
+      "Jebel Akhdar"
+    ],
+    "funFact": "Oman is the oldest independent state in the Arab world, dating back to 1744."
+  },
+  "AF": {
+    "food": [
+      "Kabuli Pulao",
+      "Mantu",
+      "Bolani",
+      "Ashak",
+      "Sheer Khurma"
+    ],
+    "dress": "Perahan Tunban (tunic and trousers) for men and colorful embroidered nomadic dresses for women",
+    "festivals": [
+      "Nowruz",
+      "Eid al-Fitr",
+      "Jeshen (Independence Day)",
+      "Ashura"
+    ],
+    "famousPlaces": [
+      "Babus Shah Garden",
+      "Minaret of Jam",
+      "Band-e-Amir Lakes",
+      "Blue Mosque Mazar-i-Sharif",
+      "Panjshir Valley"
+    ],
+    "funFact": "Buzkashi, the national sport of Afghanistan, involves riders on horseback competing to grab a goat carcass."
+  },
+  "MN": {
+    "food": [
+      "Buuz (Dumplings)",
+      "Khuushuur",
+      "Boodog",
+      "Tsuivan",
+      "Airag (Fermented Mare's Milk)"
+    ],
+    "dress": "Deel is the traditional tunic worn by nomads, often accompanied by boots and a belt",
+    "festivals": [
+      "Naadam Festival",
+      "Tsagaan Sar (Lunar New Year)",
+      "Golden Eagle Festival",
+      "Ice Festival"
+    ],
+    "famousPlaces": [
+      "Gobi Desert",
+      "Khuvsgul Lake",
+      "Genghis Khan Statue Complex",
+      "Terelj National Park",
+      "Orkhon Valley"
+    ],
+    "funFact": "Mongolia is the least densely populated sovereign nation in the world."
+  },
+  "KZ": {
+    "food": [
+      "Beshbarmak",
+      "Kazy",
+      "Baursak",
+      "Manty",
+      "Kurt"
+    ],
+    "dress": "Chapan (long robe) and Takiyah (cap) are traditional; embroidery often features floral and horn motifs",
+    "festivals": [
+      "Nauryz",
+      "Constitution Day",
+      "Astana Day",
+      "President's Day"
+    ],
+    "famousPlaces": [
+      "Charyn Canyon",
+      "Almaty Mountains",
+      "Bayterek Tower",
+      "Kaindy Lake",
+      "Mausoleum of Khoja Ahmed Yasawi"
+    ],
+    "funFact": "Kazakhstan is the world's largest landlocked country and contains the Baikonur Cosmodrome, the world's first space launch facility."
+  },
+  "UZ": {
+    "food": [
+      "Plov (Pilaf)",
+      "Shurpa",
+      "Samsa",
+      "Laghman",
+      "Obi Non (Bread)"
+    ],
+    "dress": "Traditional Atlas and Adras silk garments with intricate ikat patterns",
+    "festivals": [
+      "Navruz",
+      "Shark Taronalari (Music Festival)",
+      "Silk and Spices Festival",
+      "Independence Day"
+    ],
+    "famousPlaces": [
+      "Registan Square Samarkand",
+      "Itchan Kala Khiva",
+      "Bukhara Old City",
+      "Shah-i-Zinda",
+      "Chorsu Bazaar Tashkent"
+    ],
+    "funFact": "Uzbekistan is one of only two doubly landlocked countries in the world (the other being Liechtenstein)."
+  },
+  "DZ": {
+    "food": [
+      "Couscous",
+      "Chakhchoukha",
+      "Mechoui",
+      "Harira",
+      "Dolma"
+    ],
+    "dress": "Karakou (velvet jacket) for women and Burnous (wool cloak) for men are iconic Algerian garments",
+    "festivals": [
+      "Festival of the Sahara",
+      "Yennayer (Berber New Year)",
+      "Eid al-Fitr",
+      "S'beiba Festival"
+    ],
+    "famousPlaces": [
+      "Algiers Casbah",
+      "Tassili n'Ajjer",
+      "Tipaza Ruins",
+      "Ghardaia",
+      "Constantine Suspension Bridges"
+    ],
+    "funFact": "Algeria is the largest country by area in Africa and the Mediterranean basin."
+  },
+  "TN": {
+    "food": [
+      "Couscous",
+      "Brik",
+      "Lablabi",
+      "Ojja",
+      "Tunisian Salad"
+    ],
+    "dress": "Jebba (tunic) for men and Kaftan or Sefseri for women are traditional Tunisian attire",
+    "festivals": [
+      "International Festival of Carthage",
+      "Sahara Festival Douz",
+      "Tabarka Jazz Festival"
+    ],
+    "famousPlaces": [
+      "Carthage Ruins",
+      "Sidi Bou Said",
+      "El Jem Amphitheatre",
+      "Medina of Tunis",
+      "Djerba Island"
+    ],
+    "funFact": "The scenes for the desert planet Tatooine in Star Wars were filmed in Tunisia."
+  },
+  "GH": {
+    "food": [
+      "Jollof Rice",
+      "Fufu with Light Soup",
+      "Banku with Tilapia",
+      "Waakye",
+      "Kelewele"
+    ],
+    "dress": "Kente cloth, with its vibrant woven patterns, is the world-famous traditional textile of Ghana",
+    "festivals": [
+      "Homowo Festival",
+      "Aboakyer Festival",
+      "Panafest",
+      "Chale Wote Street Art Festival"
+    ],
+    "famousPlaces": [
+      "Cape Coast Castle",
+      "Kakum National Park",
+      "Mole National Park",
+      "Kwame Nkrumah Memorial",
+      "Lake Volta"
+    ],
+    "funFact": "Ghana was the first sub-Saharan African country to gain independence from colonial rule in 1957."
+  },
+  "TZ": {
+    "food": [
+      "Ugali",
+      "Nyama Choma",
+      "Pilau",
+      "Chips Mayai",
+      "Mishkaki"
+    ],
+    "dress": "Kanga and Kitenge fabrics are widely worn; Maasai traditional dress is iconic in the north",
+    "festivals": [
+      "Sauti za Busara Music Festival",
+      "Zanzibar International Film Festival",
+      "Nane Nane Day"
+    ],
+    "famousPlaces": [
+      "Mount Kilimanjaro",
+      "Serengeti National Park",
+      "Ngorongoro Crater",
+      "Zanzibar Stone Town",
+      "Selous Game Reserve"
+    ],
+    "funFact": "Tanzania is home to Mount Kilimanjaro, the highest peak in Africa, and the largest concentration of animals per square kilometer in the world."
+  },
+  "UG": {
+    "food": [
+      "Matooke",
+      "Luwombo",
+      "Rolex (Rolled Eggs)",
+      "Muchomo",
+      "Groundnut Sauce"
+    ],
+    "dress": "Gomesi (colorful dress) for women and Kanzu (white robe) for men are the national traditional costumes",
+    "festivals": [
+      "Nyege Nyege Festival",
+      "Bayimba International Festival",
+      "Uganda Martyrs Day"
+    ],
+    "famousPlaces": [
+      "Murchison Falls",
+      "Bwindi Impenetrable Forest",
+      "Source of the Nile",
+      "Rwenzori Mountains",
+      "Lake Victoria"
+    ],
+    "funFact": "Uganda is often called the 'Pearl of Africa' and is home to half of the world's remaining mountain gorillas."
+  },
+  "RW": {
+    "food": [
+      "Ugalie",
+      "Isombe",
+      "Ibihaza",
+      "Brochettes",
+      "Matooke"
+    ],
+    "dress": "Mushanana (sash over dress) is the traditional ceremonial clothing of Rwandan women",
+    "festivals": [
+      "Kwita Izina (Gorilla Naming Ceremony)",
+      "FESPAD (Pan-African Dance Festival)",
+      "Umuganda (Community Work Day)"
+    ],
+    "famousPlaces": [
+      "Volcanoes National Park",
+      "Nyungwe Forest",
+      "Lake Kivu",
+      "Kigali Genocide Memorial",
+      "Akagera National Park"
+    ],
+    "funFact": "Rwanda has the highest percentage of women in parliament of any country in the world."
+  },
+  "ZW": {
+    "food": [
+      "Sadza",
+      "Mopane Worms",
+      "Bota",
+      "Dovi (Peanut Butter Stew)",
+      "Nyamachoma"
+    ],
+    "dress": "Modern Western clothing is common; traditional dress features beadwork and vibrant fabrics used in Shona culture",
+    "festivals": [
+      "Harare International Festival of the Arts",
+      "Vic Falls Carnival",
+      "Zimbabwe International Film Festival"
+    ],
+    "famousPlaces": [
+      "Victoria Falls",
+      "Great Zimbabwe Ruins",
+      "Hwange National Park",
+      "Matobo Hills",
+      "Lake Kariba"
+    ],
+    "funFact": "Zimbabwe has the most official languages in the world, with 16 recognized languages."
+  },
+  "NA": {
+    "food": [
+      "Kapana",
+      "Biltong",
+      "Potjiekos",
+      "Mopane Worms",
+      "Omajowa Mushrooms"
+    ],
+    "dress": "Herero women's Victorian-style dresses and Himeba tribe's red ochre body paint are iconic",
+    "festivals": [
+      "Windhoek Oktoberfest",
+      "Enjando Street Festival",
+      "Kuvugwa Cultural Festival"
+    ],
+    "famousPlaces": [
+      "Sossusvlei Dunes",
+      "Etosha National Park",
+      "Fish River Canyon",
+      "Skeleton Coast",
+      "Kolmanskop Ghost Town"
+    ],
+    "funFact": "Namibia is home to the world's oldest desert, the Namib, which has been dry for at least 55 million years."
+  },
+  "BW": {
+    "food": [
+      "Seswaa",
+      "Matmekwane",
+      "Bogobe",
+      "Vetkoek",
+      "Phane Worms"
+    ],
+    "dress": "Shweshwe fabric garments and traditional leather clothing used by the San people",
+    "festivals": [
+      "Dithubaruba Cultural Festival",
+      "Maitisong Festival",
+      "Botswana Day"
+    ],
+    "famousPlaces": [
+      "Okavango Delta",
+      "Chobe National Park",
+      "Makgadikgadi Pans",
+      "Tsodilo Hills",
+      "Central Kalahari Game Reserve"
+    ],
+    "funFact": "Botswana has the largest population of elephants in the world, with over 130,000 individuals."
+  },
+  "CU": {
+    "food": [
+      "Ropa Vieja",
+      "Arroz con Pollo",
+      "Yuca con Mojo",
+      "Tostones",
+      "Cuban Sandwich"
+    ],
+    "dress": "Guayabera (pleated shirt) for men and Bata Cubana for women are traditional symbols",
+    "festivals": [
+      "Havana Carnival",
+      "Santiago de Cuba Festival",
+      "Habanos Festival",
+      "Festival del Fuego"
+    ],
+    "famousPlaces": [
+      "Old Havana",
+      "Varadero Beach",
+      "Viñales Valley",
+      "Trinidad City",
+      "Castillo de la Real Fuerza"
+    ],
+    "funFact": "Cuba is the largest island in the Caribbean and is often compared to a crocodile in shape."
+  },
+  "DO": {
+    "food": [
+      "La Bandera (Rice, Beans, Meat)",
+      "Mangú",
+      "Sancocho",
+      "Mofongo",
+      "Habichuelas con dulce"
+    ],
+    "dress": "Colorful skirts with ruffles for women and white shirts for men, often worn during Merengue dances",
+    "festivals": [
+      "Santo Domingo Carnival",
+      "Merengue Festival",
+      "Independence Day (Feb 27)"
+    ],
+    "famousPlaces": [
+      "Zona Colonial Santo Domingo",
+      "Punta Cana Beaches",
+      "Pico Duarte",
+      "Lake Enriquillo",
+      "Altos de Chavón"
+    ],
+    "funFact": "The Dominican Republic is the site of the first university, cathedral, and castle built in the Americas."
+  },
+  "GT": {
+    "food": [
+      "Pepián",
+      "Kak'ik",
+      "Tamales",
+      "Atol de Elote",
+      "Rellenitos"
+    ],
+    "dress": "Traje (traditional Mayan clothing) features hand-woven Huipils with patterns unique to each village",
+    "festivals": [
+      "Holy Week in Antigua (Semana Santa)",
+      "Giant Kite Festival (Sumpango)",
+      "Rabin Ajau"
+    ],
+    "famousPlaces": [
+      "Tikal Mayan Ruins",
+      "Lake Atitlán",
+      "Antigua Guatemala",
+      "Semuc Champey",
+      "Chichicastenango Market"
+    ],
+    "funFact": "Guatemala means 'Land of many trees' in the Nahuatl language."
+  },
+  "CR": {
+    "food": [
+      "Gallo Pinto",
+      "Casado",
+      "Tamal de Masa",
+      "Olla de Carne",
+      "Chifrijo"
+    ],
+    "dress": "Traditional dress for women is a colorful skirt (gola) and white blouse; men wear felt hats and neckerchiefs",
+    "festivals": [
+      "Fiestas de Zapote",
+      "Limon Carnival",
+      "Envision Festival",
+      "Coffee & Oxer festival"
+    ],
+    "famousPlaces": [
+      "Arenal Volcano",
+      "Manuel Antonio National Park",
+      "Monteverde Cloud Forest",
+      "Tortuguero NP",
+      "Corcovado NP"
+    ],
+    "funFact": "Costa Rica has no standing army; it was constitutionally abolished in 1948."
+  },
+  "PA": {
+    "food": [
+      "Sancocho",
+      "Ropa Vieja",
+      "Hojaldras",
+      "Carimañolas",
+      "Arroz con Guandú"
+    ],
+    "dress": "Pollera is the elaborate national dress for women; Montuno is the traditional attire for men",
+    "festivals": [
+      "Panama Carnival",
+      "Festival de la Mejorana",
+      "Black Christ of Portobelo Festival"
+    ],
+    "famousPlaces": [
+      "Panama Canal",
+      "Bocas del Toro",
+      "Casco Viejo",
+      "San Blas Islands",
+      "Biomuseo"
+    ],
+    "funFact": "Panama is the only place in the world where you can see the sun rise over the Pacific and set over the Atlantic from the same spot."
+  },
+  "VE": {
+    "food": [
+      "Arepa",
+      "Pabellón Criollo",
+      "Hallaca",
+      "Cachapa",
+      "Asado Negro"
+    ],
+    "dress": "Liqui Liqui is the national traditional costume for men; colorful layered skirts for women",
+    "festivals": [
+      "Dancing Devils of Yare",
+      "Carnival of El Callao",
+      "Feria del Sol"
+    ],
+    "famousPlaces": [
+      "Angel Falls",
+      "Los Roques Archipelago",
+      "Mount Roraima",
+      "Isla Margarita",
+      "Mérida Cable Car"
+    ],
+    "funFact": "Angel Falls in Venezuela is the world's highest uninterrupted waterfall, with a height of 979 meters."
+  },
+  "EC": {
+    "food": [
+      "Ceviche de Camarón",
+      "Cuy Asado (Roasted Guinea Pig)",
+      "Locro de Papa",
+      "Bolón de Verde",
+      "Encebollado"
+    ],
+    "dress": "Indigenous Kichwa clothing varies by region, like the blue ponchos and white trousers of Otavalo men",
+    "festivals": [
+      "Fiesta de la Mama Negra",
+      "Inti Raymi",
+      "Carnival of Guaranda",
+      "All Souls Day"
+    ],
+    "famousPlaces": [
+      "Galápagos Islands",
+      "Quito Old Town",
+      "Cotopaxi Volcano",
+      "Cuenca",
+      "Middle of the World (Mitad del Mundo)"
+    ],
+    "funFact": "Mount Chimborazo in Ecuador is the point on Earth closest to the sun because of the equatorial bulge."
+  },
+  "BO": {
+    "food": [
+      "Salteñas",
+      "Sajta de Pollo",
+      "Plato Paceño",
+      "Silpancho",
+      "Anticucho"
+    ],
+    "dress": "Chola Paceña costume, featuring the pollera skirt and bowler hat (bombín), is an iconic symbol",
+    "festivals": [
+      "Carnival of Oruro (UNESCO-listed)",
+      "Alasitas Festival",
+      "Fiesta del Gran Poder"
+    ],
+    "famousPlaces": [
+      "Salar de Uyuni",
+      "Lake Titicaca",
+      "Tiwanaku Ruins",
+      "Madidi National Park",
+      "Death Road (Yungas)"
+    ],
+    "funFact": "Bolivia has the world's largest salt flat, Salar de Uyuni, which contains an estimated 10 billion tons of salt."
+  },
+  "PY": {
+    "food": [
+      "Sopa Paraguaya",
+      "Chipa",
+      "Mbejú",
+      "Pira Caldo",
+      "Asado"
+    ],
+    "dress": "Ao Po'i (fine cloth) embroidered clothing is the traditional textile of Paraguay",
+    "festivals": [
+      "Nanduti Festival",
+      "San Juan Ara",
+      "Ypacaraí Festival"
+    ],
+    "famousPlaces": [
+      "Itaipu Dam",
+      "Jesuit Missions of La Santísima Trinidad",
+      "Chaco Region",
+      "Asunción Old City",
+      "Saltos del Monday"
+    ],
+    "funFact": "Paraguay is the only country in the world whose national flag has different emblems on the front and back."
+  },
+  "UY": {
+    "food": [
+      "Chivito",
+      "Asado",
+      "Mate",
+      "Torta Frita",
+      "Dulce de Leche"
+    ],
+    "dress": "Gaucho traditional attire is common in rural areas, reflecting the cattle-ranching heritage",
+    "festivals": [
+      "Montevideo Carnival (longest in the world)",
+      "Desfile de Llamadas",
+      "Patria Gaucha"
+    ],
+    "famousPlaces": [
+      "Punta del Este",
+      "Casapueblo",
+      "Colonia del Sacramento",
+      "Cabo Polonio",
+      "Montevideo Rambla"
+    ],
+    "funFact": "Uruguay was the first country in the world to fully legalize the cultivation, sale, and consumption of cannabis."
+  },
+  "FJ": {
+    "food": [
+      "Kokonda",
+      "Lovo",
+      "Rourou",
+      "Duruka",
+      "Cassava Cake"
+    ],
+    "dress": "Sulu (wraparound skirt) is the national dress worn by both men and women in various styles",
+    "festivals": [
+      "Bula Festival",
+      "Hibiscus Festival",
+      "Diwali",
+      "Constitution Day"
+    ],
+    "famousPlaces": [
+      "Mamanuca Islands",
+      "Yasawa Islands",
+      "Sigatoka Sand Dunes",
+      "Garden of the Sleeping Giant",
+      "Beqa Lagoon"
+    ],
+    "funFact": "Fiji is composed of 333 islands, only about 110 of which are permanently inhabited."
+  },
+  "PG": {
+    "food": [
+      "Mumu",
+      "Saksak",
+      "Kokoda",
+      "Taro with Coconut Cream",
+      "Barramundi"
+    ],
+    "dress": "Bilas (body ornamentation) using bird of paradise feathers, shells, and clay is central to tribal identity",
+    "festivals": [
+      "Mount Hagen Cultural Show",
+      "Goroka Show",
+      "Hiri Moale Festival"
+    ],
+    "famousPlaces": [
+      "Kokoda Track",
+      "Tavurvur Volcano",
+      "Sepik River",
+      "Mount Wilhelm",
+      "Milne Bay"
+    ],
+    "funFact": "Papua New Guinea is the most linguistically diverse country in the world, with over 800 indigenous languages spoken."
+  },
+  "MT": {
+    "food": [
+      "Pastizzi",
+      "Rabbit Stew (Fenkata)",
+      "Ħobż tal-Malti",
+      "Imqaret",
+      "Kinnie (Soft Drink)"
+    ],
+    "dress": "Modern Western style; traditional Għonella (black hooded cloak) was a unique female garment until the 20th century",
+    "festivals": [
+      "Malta International Fireworks Festival",
+      "Isle of MTV",
+      "Feast of Santa Marija",
+      "Notte Bianca"
+    ],
+    "famousPlaces": [
+      "Valletta",
+      "Mdina Old City",
+      "Blue Grotto",
+      "Ħaġar Qim Temples",
+      "Gozo Island"
+    ],
+    "funFact": "Malta has the highest density of historical sights in the world, including 7 UNESCO World Heritage Sites."
+  },
+  "CY": {
+    "food": [
+      "Halloumi Cheese",
+      "Souvla",
+      "Koupepia (Dolmas)",
+      "Lountza",
+      "Commandaria Wine"
+    ],
+    "dress": "Vraka (baggy trousers) for men and embroidered Sayia for women are traditional Cypriot costumes",
+    "festivals": [
+      "Limassol Carnival",
+      "Anthestiria Flower Festival",
+      "Kataklysmos (Flood Festival)"
+    ],
+    "famousPlaces": [
+      "Paphos Archaeological Park",
+      "Troodos Mountains",
+      "Kykkos Monastery",
+      "Aphrodite's Rock",
+      "Fig Tree Bay"
+    ],
+    "funFact": "Cyprus is the only country with a map on its national flag."
+  },
+  "AL": {
+    "food": [
+      "Tave Kosi",
+      "Byrek",
+      "Flija",
+      "Qofte",
+      "Baklava"
+    ],
+    "dress": "Fustanella (pleated skirt) and Qeleshe (felt cap) are iconic parts of Albanian national heritage",
+    "festivals": [
+      "Dita e Veres (Spring Day)",
+      "Gjirokastër Folk Festival",
+      "National Day"
+    ],
+    "famousPlaces": [
+      "Berat (City of a Thousand Windows)",
+      "Butrint National Park",
+      "Blue Eye Spring",
+      "Albanian Riviera",
+      "Skanderbeg Square"
+    ],
+    "funFact": "Albania has over 170,000 bunkers spread across the country, built during the Cold War era."
+  },
+  "AM": {
+    "food": [
+      "Khorovats (BBQ)",
+      "Lavash",
+      "Dolma",
+      "Ghapama",
+      "Khash"
+    ],
+    "dress": "Taraz (traditional clothing) features complex embroidery and symbolic floral patterns",
+    "festivals": [
+      "Vardavar (Water Festival)",
+      "Golden Apricot Film Festival",
+      "Erebuni-Yerevan"
+    ],
+    "famousPlaces": [
+      "Khor Virap Monastery",
+      "Geghard Monastery",
+      "Lake Sevan",
+      "Garni Temple",
+      "Cascade Complex Yerevan"
+    ],
+    "funFact": "Armenia was the first nation in the world to adopt Christianity as its state religion, in 301 AD."
+  },
+  "AZ": {
+    "food": [
+      "Plov",
+      "Dolma",
+      "Lula Kebab",
+      "Qutab",
+      "Pakhlava"
+    ],
+    "dress": "Silk garments with 'Buta' patterns; 'Papakh' fur hats for men are iconic national symbols",
+    "festivals": [
+      "Novruz Bayrami",
+      "Goychay Pomegranate Festival",
+      "Baku Jazz Festival"
+    ],
+    "famousPlaces": [
+      "Gobustan Rock Art",
+      "Sheki Khan's Palace",
+      "Flame Towers Baku",
+      "Mud Volcanoes",
+      "Maiden Tower"
+    ],
+    "funFact": "Azerbaijan is known as the 'Land of Fire' due to its natural gas fires that have burned for centuries."
+  },
+  "GE": {
+    "food": [
+      "Khachapuri",
+      "Khinkali",
+      "Churchkhela",
+      "Satsivi",
+      "Badrijani Nigvzit"
+    ],
+    "dress": "Chokha (wool coat with cartridge holders) is the revered national costume for men",
+    "festivals": [
+      "Tbilisoba",
+      "Rtveli (Grape Harvest)",
+      "Alaverdoba"
+    ],
+    "famousPlaces": [
+      "Gergeti Trinity Church",
+      "Ushguli Village",
+      "Vardzia Cave City",
+      "Old Tbilisi",
+      "Batumi Boulevard"
+    ],
+    "funFact": "Georgia is widely considered the cradle of wine, with a winemaking history dating back over 8,000 years."
+  },
+  "BY": {
+    "food": [
+      "Draniki",
+      "Machanka",
+      "Kalduny",
+      "Babka",
+      "Krambambula"
+    ],
+    "dress": "Vyshyvanka (embroidered shirt) with red geometric patterns on white linen is the traditional style",
+    "festivals": [
+      "Kupala Night",
+      "Slavianski Bazaar in Vitebsk",
+      "Dazhynki (Harvest Festival)"
+    ],
+    "famousPlaces": [
+      "Mir Castle",
+      "Nesvizh Palace",
+      "Brest Fortress",
+      "Belovezhskaya Pushcha",
+      "National Library of Belarus"
+    ],
+    "funFact": "Belarus is home to the last primeval forest in Europe, which is the natural habitat of the European bison."
+  },
+  "MD": {
+    "food": [
+      "Mămăligă",
+      "Plăcinte",
+      "Sarmale",
+      "Zeamă",
+      "Răcituri"
+    ],
+    "dress": "Embroidered 'IE' blouses and 'Koshulyas' are traditional; wine symbols are often included in folk art",
+    "festivals": [
+      "National Wine Day",
+      "Martenitsa",
+      "Gustar Music Festival"
+    ],
+    "famousPlaces": [
+      "Orheiul Vechi",
+      "Milestii Mici Winery",
+      "Cricova Cellars",
+      "Soroca Fortress",
+      "Tipova Monastery"
+    ],
+    "funFact": "Moldova's Milestii Mici has the largest wine cellar in the world, with over 2 million bottles stored in 200 km of tunnels."
+  },
+  "BN": {
+    "food": [
+      "Ambuyat",
+      "Nasi Katok",
+      "Satay",
+      "Udang Sambal Serai",
+      "Penyaram"
+    ],
+    "dress": "Baju Melayu for men and Baju Kurung for women, often made from gold-threaded Jong Sarat fabric",
+    "festivals": [
+      "Sultan's Birthday (July 15)",
+      "Hari Raya Aidilfitri",
+      "National Day"
+    ],
+    "famousPlaces": [
+      "Omar Ali Saifuddien Mosque",
+      "Kampong Ayer (Water Village)",
+      "Istana Nurul Iman",
+      "Ulu Temburong National Park",
+      "Jame' 'Asr Hassanil Bolkiah Mosque"
+    ],
+    "funFact": "Brunei has no taxes — no personal income tax, no sales tax, and no value-added tax."
+  },
+  "TL": {
+    "food": [
+      "Batar Da'an",
+      "Ikan Sabuko",
+      "Tukir",
+      "Pastel de Nata (Portuguese influence)",
+      "Organic Coffee"
+    ],
+    "dress": "Tais (hand-woven textile) is the cultural heart of Timor-Leste, used for clothing and ceremonial gifts",
+    "festivals": [
+      "Independence Day (May 20)",
+      "Proclamation of Independence Day (Nov 28)",
+      "Easter"
+    ],
+    "famousPlaces": [
+      "Cristo Rei Dili",
+      "Atauro Island",
+      "Jaco Island",
+      "Mount Ramelau",
+      "Maubisse"
+    ],
+    "funFact": "Timor-Leste is one of the world's youngest countries, having gained formal independence in 2002."
+  },
+  "BT": {
+    "food": [
+      "Ema Datshi (Chili and Cheese)",
+      "Red Rice",
+      "Jasha Maru",
+      "Phaksha Paa",
+      "Suja (Butter Tea)"
+    ],
+    "dress": "Gho (knee-length robe) for men and Kira (ankle-length dress) for women are mandatory for official work",
+    "festivals": [
+      "Paro Tshechu",
+      "Thimphu Tshechu",
+      "Punakha Dromche",
+      "Black-Necked Crane Festival"
+    ],
+    "famousPlaces": [
+      "Tiger's Nest (Paro Taktsang)",
+      "Punakha Dzong",
+      "Buddha Dordenma",
+      "Dochula Pass",
+      "Phobjikha Valley"
+    ],
+    "funFact": "Bhutan is the only carbon-negative country in the world and uses 'Gross National Happiness' as its primary measure of success."
+  },
+  "MV": {
+    "food": [
+      "Mas Huni",
+      "Garudhiya",
+      "Bis Keemiya",
+      "Fihunu Mas",
+      "Kulhi Boakibaa"
+    ],
+    "dress": "Dhivehi Libaas (embroidered dress) for women and Mundu (sarong) for men are traditional",
+    "festivals": [
+      "Eid al-Fitr",
+      "Republic Day",
+      "National Day",
+      "Whale Shark Festival"
+    ],
+    "famousPlaces": [
+      "Malé Friday Mosque",
+      "Vaadhoo Island (Sea of Stars)",
+      "Banana Reef",
+      "Utheemu Ganduvaru",
+      "Hanifaru Bay"
+    ],
+    "funFact": "The Maldives is the lowest-lying country in the world, with an average ground level of only 1.5 meters above sea level."
+  },
+  "KW": {
+    "food": [
+      "Machboos",
+      "Mutabbaq Samak",
+      "Gabout",
+      "Harees",
+      "Jereesh"
+    ],
+    "dress": "Bisht (outer cloak) is worn by men over the Thobe on special occasions; Abaya is standard for women",
+    "festivals": [
+      "Hala February Festival",
+      "National Day (Feb 25)",
+      "Liberation Day (Feb 26)"
+    ],
+    "famousPlaces": [
+      "Kuwait Towers",
+      "Grand Mosque Kuwait",
+      "Scientific Center",
+      "Al Hamra Tower",
+      "Failaka Island"
+    ],
+    "funFact": "The Kuwaiti Dinar is the highest-valued currency unit in the world (as of 2024)."
+  },
+  "BH": {
+    "food": [
+      "Machboos",
+      "Muhammar",
+      "Quzi",
+      "Falafel",
+      "Halwa Showaiter"
+    ],
+    "dress": "Traditional Arab dress (Thobe and Abaya); women's traditional dresses are often heavily embroidered with gold",
+    "festivals": [
+      "Bahrain Grand Prix",
+      "National Day (Dec 16)",
+      "Bahrain International Music Festival"
+    ],
+    "famousPlaces": [
+      "Bahrain Fort (Qal'at al-Bahrain)",
+      "Tree of Life",
+      "Al Fateh Grand Mosque",
+      "Bab Al Bahrain",
+      "Bahrain National Museum"
+    ],
+    "funFact": "The 'Tree of Life' in Bahrain is a 400-year-old tree that grows in the middle of a desert with no apparent water source."
+  },
+  "KG": {
+    "food": [
+      "Beshbarmak",
+      "Kurut",
+      "Boorsok",
+      "Lagman",
+      "Kymyz"
+    ],
+    "dress": "Ak-kalpak (white felt hat) is the most sacred national symbol for Kyrgyz men",
+    "festivals": [
+      "World Nomad Games",
+      "Nooruz",
+      "Birds of Prey Festival",
+      "Constitution Day"
+    ],
+    "famousPlaces": [
+      "Issyk-Kul Lake",
+      "Ala Archa National Park",
+      "Sulaiman-To Sacred Mountain",
+      "Song-Kul Lake",
+      "Burana Tower"
+    ],
+    "funFact": "The Epic of Manas, a Kyrgyz oral poem, is the longest epic poem in the world, with over 500,000 lines."
+  },
+  "TJ": {
+    "food": [
+      "Qurutob",
+      "Plov",
+      "Sambusa",
+      "Mastoba",
+      "Non (Bread)"
+    ],
+    "dress": "Traditional silk 'Chakan' dresses with vibrant sun-wheel embroidery for women",
+    "festivals": [
+      "Navruz",
+      "Sayri Guli Lola (Tulip Festival)",
+      "Independence Day"
+    ],
+    "famousPlaces": [
+      "Pamir Highway",
+      "Iskanderkul Lake",
+      "Rudaki Park Dushanbe",
+      "National Museum of Tajikistan",
+      "Fan Mountains"
+    ],
+    "funFact": "Tajikistan is home to the Fedchenko Glacier, the longest glacier in the world outside of the polar regions."
+  },
+  "TM": {
+    "food": [
+      "Plov",
+      "Shurpa",
+      "Ishlekli (Shepherd's Pie)",
+      "Gatlam",
+      "Dograma"
+    ],
+    "dress": "Telpek (large sheepskin hats) for men and silk embroidered dresses with silver jewelry for women",
+    "festivals": [
+      "Neutrality Day",
+      "Ahalteke Horse Day",
+      "Melon Day"
+    ],
+    "famousPlaces": [
+      "Darvaza Gas Crater (Door to Hell)",
+      "Merv Ruins",
+      "Nisa Ancient City",
+      "Ashgabat (City of White Marble)",
+      "Kunya-Urgench"
+    ],
+    "funFact": "Ashgabat, the capital of Turkmenistan, holds the Guinness World Record for the highest density of white marble buildings."
+  },
+  "MG": {
+    "food": [
+      "Romazava",
+      "Ravitoto",
+      "Mofo Gasy",
+      "Henakisoa",
+      "Koba"
+    ],
+    "dress": "Lamba is the traditional multi-purpose rectangular fabric worn by both men and women",
+    "festivals": [
+      "Donia Music Festival",
+      "Alahamady Be (Malagasy New Year)",
+      "Turning of the Bones (Famadihana)"
+    ],
+    "famousPlaces": [
+      "Avenue of the Baobabs",
+      "Tsingy de Bemaraha",
+      "Isalo National Park",
+      "Andasibe-Mantadia",
+      "Nosy Be"
+    ],
+    "funFact": "Over 90% of Madagascar's wildlife is found nowhere else on Earth, including its famous lemurs."
+  },
+  "MU": {
+    "food": [
+      "Dholl Puri",
+      "Gateau Piment",
+      "Mauritian Biryani",
+      "Rougaille",
+      "Alouda"
+    ],
+    "dress": "Modern Western style; the colorful Sega dance costumes with large ruffled skirts are iconic",
+    "festivals": [
+      "Maha Shivaratri",
+      "Cavadee",
+      "Divali",
+      "Chinese Spring Festival"
+    ],
+    "famousPlaces": [
+      "Le Morne Brabant",
+      "Seven Coloured Earths of Chamarel",
+      "Black River Gorges",
+      "Grand Bassin",
+      "Ile aux Cerfs"
+    ],
+    "funFact": "Mauritius was the only known habitat of the now-extinct dodo bird."
+  },
+  "SC": {
+    "food": [
+      "Grilled Fish with Creole Sauce",
+      "Ladob",
+      "Octopus Curry",
+      "Shark Chutney",
+      "Breadfruit Chips"
+    ],
+    "dress": "Light tropical wear; traditional Kazak and Penwar costumes are worn during Creole festivals",
+    "festivals": [
+      "Festival Kreol",
+      "Seychelles Carnival",
+      "Semaine de la Francophonie"
+    ],
+    "famousPlaces": [
+      "Anse Source d'Argent",
+      "Vallée de Mai",
+      "Aldabra Atoll",
+      "Praslin Island",
+      "Victoria (Smallest Capital)"
+    ],
+    "funFact": "Seychelles is home to the world's largest seed, the Coco de Mer, which can weigh up to 30kg."
+  },
+  "CV": {
+    "food": [
+      "Cachupa (National Dish)",
+      "Pastel com diabo dentro",
+      "Jagacida",
+      "Buzio Stew",
+      "Grogue"
+    ],
+    "dress": "Pano d'obra (woven cotton fabric) is a traditional textile used for clothing and baby carriers",
+    "festivals": [
+      "Mindelo Carnival",
+      "Festival de Baia das Gatas",
+      "Tabanka Festival"
+    ],
+    "famousPlaces": [
+      "Pico do Fogo Volcano",
+      "Cidade Velha (UNESCO)",
+      "Santa Monica Beach Boavista",
+      "Sal Island Salt Mines",
+      "Mindelo"
+    ],
+    "funFact": "Cape Verde was uninhabited when Portuguese explorers discovered the islands in 1460."
+  },
+  "SN": {
+    "food": [
+      "Thieboudienne",
+      "Yassa Chicken",
+      "Mafe",
+      "Pastels",
+      "Bissap Juice"
+    ],
+    "dress": "Mainly the colorful Boubou (flowing robe) worn by both men and women with matching headwraps",
+    "festivals": [
+      "Dak'Art Biennale",
+      "Saint-Louis Jazz Festival",
+      "Gorée Diaspora Festival"
+    ],
+    "famousPlaces": [
+      "Gorée Island",
+      "Pink Lake (Lake Retba)",
+      "Dakar Renaissance Monument",
+      "Djoudj Bird Sanctuary",
+      "Saint-Louis"
+    ],
+    "funFact": "Senegal is home to the tallest statue in Africa, the African Renaissance Monument, standing at 49 meters."
+  },
+  "CI": {
+    "food": [
+      "Kedjenou",
+      "Attieke",
+      "Aloco",
+      "Fufu",
+      "Garba"
+    ],
+    "dress": "Pagne (colorful printed fabric) used in various styles; traditional Bogolan or mud cloth is also celebrated",
+    "festivals": [
+      "Fête des Masques (Mask Festival)",
+      "Abissa Festival",
+      "Bouaké Carnival"
+    ],
+    "famousPlaces": [
+      "Basilica of Our Lady of Peace",
+      "Tai National Park",
+      "Grand-Bassam Historic Town",
+      "Banco National Park",
+      "Assinie Beaches"
+    ],
+    "funFact": "Ivory Coast is the world's largest producer and exporter of cocoa beans used in chocolate."
+  },
+  "CM": {
+    "food": [
+      "Ndole",
+      "Bahu",
+      "Puff-Puff and Beans",
+      "Achu Soup",
+      "Ekwang"
+    ],
+    "dress": "Toghu is the iconic traditional attire of the North West region, often featuring intricate embroidery on black velvet",
+    "festivals": [
+      "Ngondo Festival",
+      "Nyem-Nyem Festival",
+      "National Day"
+    ],
+    "famousPlaces": [
+      "Mount Cameroon",
+      "Waza National Park",
+      "Limbe Wildlife Centre",
+      "Dja Faunal Reserve",
+      "Kribi Beaches"
+    ],
+    "funFact": "Cameroon is known as 'Africa in Miniature' because it contains all the major climates and landscapes of the continent."
+  },
+  "AO": {
+    "food": [
+      "Muamba de Galinha",
+      "Funje",
+      "Calulu",
+      "Mufete",
+      "Kizaca"
+    ],
+    "dress": "Samakaka fabric, with its distinctive geometric patterns and bright colors, is the national textile",
+    "festivals": [
+      "Angolan Carnival",
+      "Festival of Luanda",
+      "Assunção Festival"
+    ],
+    "famousPlaces": [
+      "Kalandula Falls",
+      "Miradouro da Lua",
+      "Kissama National Park",
+      "Tunda Vala Fissure",
+      "Mussulo Island"
+    ],
+    "funFact": "Angola is the source of many of the world's largest and most famous diamonds."
+  },
+  "ZM": {
+    "food": [
+      "Nshima",
+      "Ifisashi",
+      "Chikanda (African Polony)",
+      "Dried Fish with Tomatoes",
+      "Vitumbuwa"
+    ],
+    "dress": "Chitenge fabric is the most popular traditional textile, used for wraps, headbands, and tailored outfits",
+    "festivals": [
+      "Kuomboka Festival",
+      "Nc'wala Ceremony",
+      "Likumbi Lya Mize"
+    ],
+    "famousPlaces": [
+      "Victoria Falls (Mosi-oa-Tunya)",
+      "South Luangwa National Park",
+      "Lower Zambezi NP",
+      "Kafue National Park",
+      "Lake Kariba"
+    ],
+    "funFact": "The Victoria Falls on the border of Zambia and Zimbabwe is the largest sheet of falling water in the world."
+  },
+  "MZ": {
+    "food": [
+      "Piri Piri Chicken",
+      "Matapa",
+      "Prawns with Peri Peri",
+      "Xima",
+      "Bolo Polana"
+    ],
+    "dress": "Capulana is the multi-colored wrap fabric that is central to Mozambican cultural identity and fashion",
+    "festivals": [
+      "STRAB Festival",
+      "Marrabenta Festival",
+      "Festival of the Island of Mozambique"
+    ],
+    "famousPlaces": [
+      "Bazaruto Archipelago",
+      "Gorongosa National Park",
+      "Island of Mozambique",
+      "Maputo Elephant Reserve",
+      "Quirimbas Islands"
+    ],
+    "funFact": "Mozambique is the only country in the world to have a modern weapon (the AK-47) on its national flag."
+  },
+  "BF": {
+    "food": [
+      "Bégué",
+      "Riz Gras",
+      "Tô",
+      "Poulet Bicyclette",
+      "Babenda"
+    ],
+    "dress": "Faso Dan Fani (handwoven cotton fabric) is the national pride and traditional textile of Burkina Faso",
+    "festivals": [
+      "FESPACO (Pan-African Film Festival)",
+      "SIAO (Craft Fair)",
+      "SNC (National Culture Week)"
+    ],
+    "famousPlaces": [
+      "Ruins of Loropéni",
+      "Sindou Peaks",
+      "Karfiguéla Waterfalls",
+      "Ouagadougou Cathedral",
+      "Tiebélé Painted Houses"
+    ],
+    "funFact": "Burkina Faso is home to FESPACO, the largest and most prestigious film festival in Africa."
+  },
+  "NE": {
+    "food": [
+      "Djerma Stew",
+      "Kilishi",
+      "Couscous au Gras",
+      "Massa",
+      "Tuo"
+    ],
+    "dress": "Tuareg indigo robes and high turbans are iconic in the north; Wodaabe men's elaborate face paint is ceremonial",
+    "festivals": [
+      "Cure Salée (Salt Cure Festival)",
+      "Gerewol (Beauty Pageant)",
+      "National Day"
+    ],
+    "famousPlaces": [
+      "Aïr and Ténéré Natural Reserves",
+      "Niger River",
+      "Agadez Mosque",
+      "W National Park",
+      "Zinder Old Quarter"
+    ],
+    "funFact": "Niger is one of the hottest countries in the world and is often called the 'Frying Pan of Africa'."
+  },
+  "TD": {
+    "food": [
+      "Esh",
+      "Daraba",
+      "Kissar",
+      "Millet Porridge",
+      "Boule"
+    ],
+    "dress": "Boubou (flowing robe) for men and Pagne (wrap) for women are traditional, reflecting Sahelian culture",
+    "festivals": [
+      "National Day",
+      "Festival of the Nomads",
+      "Tabaski (Eid al-Adha)"
+    ],
+    "famousPlaces": [
+      "Ennedi Plateau",
+      "Lake Chad",
+      "Zakouma National Park",
+      "Tibesti Mountains",
+      "Aloba Arch"
+    ],
+    "funFact": "Chad is home to the Ennedi Plateau, a stunning desert landscape of rock formations and ancient cave paintings."
+  },
+  "ML": {
+    "food": [
+      "Tigadegena (Peanut Stew)",
+      "Jollof Rice",
+      "Laafidi",
+      "Foutou",
+      "Capitaine Sangha"
+    ],
+    "dress": "Bazin Riche (stiff dyed cotton) and Bogolanfini (mud cloth) are world-renowned Malian textiles",
+    "festivals": [
+      "Festival au Désert",
+      "Crossing of the Cattle (Diafarabé)",
+      "Segou'Art"
+    ],
+    "famousPlaces": [
+      "Great Mosque of Djenné",
+      "Timbuktu",
+      "Dogon Country (Bandiagara Escarpment)",
+      "Niger River Delta",
+      "Bamako Market"
+    ],
+    "funFact": "Mali was once the center of the world's gold trade under Mansa Musa, the richest person in history."
+  },
+  "MR": {
+    "food": [
+      "Thieboudienne",
+      "Méchoui",
+      "Couscous",
+      "Dates",
+      "Camel Milk"
+    ],
+    "dress": "Dara'a (wide robe) for men and Melhafa (colorful wrap) for women are traditional Mauritanian attire",
+    "festivals": [
+      "Festival des Villes Anciennes",
+      "National Day",
+      "Guetna (Date Festival)"
+    ],
+    "famousPlaces": [
+      "Banc d'Arguin National Park",
+      "Chinguetti Ancient Library",
+      "Ouadane Ruins",
+      "Nouakchott Beaches",
+      "Eye of the Sahara (Richat Structure)"
+    ],
+    "funFact": "Mauritania is home to the 'Iron Ore Train', one of the longest and heaviest trains in the world, stretching up to 3 km."
+  },
+  "BJ": {
+    "food": [
+      "Kuli-Kuli",
+      "Moyo",
+      "Amiwo",
+      "Pounded Yam with Egusi",
+      "Wagasi (Fried Cheese)"
+    ],
+    "dress": "Colorful embroidered Agbada and high-wrapped Pagne are common; voodoo ceremonial dress is highly symbolic",
+    "festivals": [
+      "Voodoo Day (Jan 10)",
+      "Ouida International Film Festival",
+      "Guelede Festival"
+    ],
+    "famousPlaces": [
+      "Ganvié (Lake Village)",
+      "Ouidah Door of No Return",
+      "Pendjari National Park",
+      "Royal Palaces of Abomey",
+      "Cotonou Cathedral"
+    ],
+    "funFact": "Benin is the birthplace of Voodoo, which is a recognized national religion in the country."
+  },
+  "TG": {
+    "food": [
+      "Fufu",
+      "Ablo",
+      "Pate",
+      "Koklo Meme",
+      "Akume"
+    ],
+    "dress": "Pagne (wrap) for women and Agbada for men are traditional; Kente fabric is also widely used in Togo",
+    "festivals": [
+      "Evala Wrestling Festival",
+      "National Day",
+      "Voodoo Festivals"
+    ],
+    "famousPlaces": [
+      "Mount Agou",
+      "Lake Togo",
+      "Koutammakou (Land of the Batammariba)",
+      "Lomé Grand Marché",
+      "Aneho"
+    ],
+    "funFact": "Togo is one of the narrowest countries in the world, with a width of less than 60 miles at some points."
+  },
+  "GN": {
+    "food": [
+      "Poulet Yassa",
+      "Footi",
+      "Kansiye",
+      "Patates",
+      "Bissap"
+    ],
+    "dress": "Lépis (indigo cloth) is the iconic traditional fabric of Guinea used for robes and wraps",
+    "festivals": [
+      "National Day",
+      "Mamaya Festival",
+      "Eid al-Fitr"
+    ],
+    "famousPlaces": [
+      "Mount Nimba",
+      "Fouta Djallon",
+      "Îles de Los",
+      "Conakry Grand Mosque",
+      "Dubréka Falls"
+    ],
+    "funFact": "Guinea is home to the source of the Niger River, the most important river in West Africa."
+  },
+  "JM": {
+    "food": [
+      "Ackee and Saltfish",
+      "Jerk Chicken",
+      "Curry Goat",
+      "Escovitch Fish",
+      "Patties"
+    ],
+    "dress": "Quadrille dress (folk costume) and vibrant Rastafarian-inspired colors and fabrics",
+    "festivals": [
+      "Reggae Sumfest",
+      "Jamaican Carnival",
+      "Independence Day (Aug 6)",
+      "Maroon Festival"
+    ],
+    "famousPlaces": [
+      "Dunn's River Falls",
+      "Blue Mountains",
+      "Negril Seven Mile Beach",
+      "Bob Marley Museum",
+      "Port Royal"
+    ],
+    "funFact": "Jamaica has the most churches per square mile in the world, with over 1,600 churches."
+  },
+  "BS": {
+    "food": [
+      "Conch Salad",
+      "Conch Fritters",
+      "Rock Lobster",
+      "Guava Duff",
+      "Bahamian Mac and Cheese"
+    ],
+    "dress": "Colorful and light tropical wear; Junkanoo costumes are elaborate masterpieces of cardboard and crepe paper",
+    "festivals": [
+      "Junkanoo (Boxing Day & New Year's)",
+      "Pineapple Festival",
+      "Regatta Week"
+    ],
+    "famousPlaces": [
+      "Atlantis Paradise Island",
+      "Exuma Pigs Beach",
+      "Blue Lagoon Island",
+      "Dean's Blue Hole",
+      "Andros Barrier Reef"
+    ],
+    "funFact": "The Bahamas has the clearest water in the world, with visibility of up to 200 feet."
+  },
+  "TT": {
+    "food": [
+      "Doubles",
+      "Roti",
+      "Callaloo",
+      "Bake and Shark",
+      "Pelau"
+    ],
+    "dress": "Highly diverse; from the colorful Carnival costumes to traditional Indian Saree and African Dashiki",
+    "festivals": [
+      "Trinidad Carnival",
+      "Diwali",
+      "Hosay",
+      "Emancipation Day"
+    ],
+    "famousPlaces": [
+      "Pitch Lake",
+      "Maracas Bay",
+      "Scarborough Fort",
+      "Nylon Pool",
+      "Caroni Bird Sanctuary"
+    ],
+    "funFact": "Trinidad and Tobago is the birthplace of the Steelpan, the only acoustic musical instrument invented in the 20th century."
+  },
+  "BB": {
+    "food": [
+      "Cou-Cou and Flying Fish",
+      "Pudding and Souse",
+      "Macaroni Pie",
+      "Conkies",
+      "Cutters"
+    ],
+    "dress": "Bajan style is classic tropical; formal attire often follows British-influenced standards",
+    "festivals": [
+      "Crop Over Festival",
+      "Holetown Festival",
+      "Oistins Fish Festival",
+      "Barbados Food and Rum Festival"
+    ],
+    "famousPlaces": [
+      "Harrison's Cave",
+      "The Crane Beach",
+      "Bathsheba",
+      "George Washington House",
+      "Animal Flower Cave"
+    ],
+    "funFact": "Barbados is often called 'The Land of Flying Fish' because they are a national symbol and a staple of the diet."
+  },
+  "LC": {
+    "food": [
+      "Green Fig and Saltfish",
+      "Bouyon",
+      "Accra",
+      "Callaloo Soup",
+      "Cocoa Tea"
+    ],
+    "dress": "Madras (quadrille) dress is the national costume, featuring a colorful plaid fabric",
+    "festivals": [
+      "Saint Lucia Jazz Festival",
+      "Jounen Kwéyòl (Creole Day)",
+      "Carnival"
+    ],
+    "famousPlaces": [
+      "The Pitons",
+      "Sulphur Springs (Drive-in Volcano)",
+      "Marigot Bay",
+      "Rodney Bay",
+      "Pigeon Island"
+    ],
+    "funFact": "Saint Lucia is the only country in the world named after a historical woman."
+  },
+  "VC": {
+    "food": [
+      "Roasted Breadfruit and Fried Jackfish",
+      "Arrowroot Flour dishes",
+      "Buljol",
+      "Callaloo",
+      "Ducana"
+    ],
+    "dress": "Traditional Madras clothing similar to other Caribbean nations, influenced by French and British heritage",
+    "festivals": [
+      "Vincy Mas (Carnival)",
+      "Nine Mornings Festival",
+      "Easter Regatta"
+    ],
+    "famousPlaces": [
+      "La Soufrière Volcano",
+      "Tobago Cays",
+      "Bequia Island",
+      "Mustique",
+      "Dark View Falls"
+    ],
+    "funFact": "The scenes for the movie 'Pirates of the Caribbean' were primarily filmed in Saint Vincent and the Grenadines."
+  },
+  "GD": {
+    "food": [
+      "Oil Down (National Dish)",
+      "Callaloo Soup",
+      "Nutmeg Ice Cream",
+      "Lambie (Conch) Souse",
+      "Fried Bakes"
+    ],
+    "dress": "Colorful Caribbean casual; traditional Shortknee and Jab Jab costumes are iconic during Carnival",
+    "festivals": [
+      "Spicemas (Carnival)",
+      "Grenada Chocolate Festival",
+      "Sailing Week"
+    ],
+    "famousPlaces": [
+      "Grand Anse Beach",
+      "Underwater Sculpture Park",
+      "Annandale Falls",
+      "Fort George",
+      "Levera National Park"
+    ],
+    "funFact": "Grenada is known as the 'Spice Isle' because it is one of the world's largest producers of nutmeg and mace."
+  },
+  "AG": {
+    "food": [
+      "Fungi and Pepperpot",
+      "Ducana",
+      "Saltfish",
+      "Antigua Black Pineapple",
+      "Johnny Cakes"
+    ],
+    "dress": "National dress features a distinctive plaid (Madras) pattern used in dresses and waistcoats",
+    "festivals": [
+      "Antigua Carnival",
+      "Sailing Week",
+      "Independence Day"
+    ],
+    "famousPlaces": [
+      "Nelson's Dockyard",
+      "Shirley Heights",
+      "Dickenson Bay",
+      "Stingray City",
+      "Devil's Bridge"
+    ],
+    "funFact": "Antigua is said to have 365 beaches — one for every day of the year."
+  },
+  "KN": {
+    "food": [
+      "Stewed Saltfish with Spicy Plantains",
+      "Pelau",
+      "Goat Water",
+      "Conkies",
+      "Coconut Drops"
+    ],
+    "dress": "Traditional clothing is vibrant and often made from linen or cotton with colorful embroidery",
+    "festivals": [
+      "Saint Kitts-Nevis National Carnival (Sugar Mas)",
+      "Culturama (Nevis)",
+      "Music Festival"
+    ],
+    "famousPlaces": [
+      "Brimstone Hill Fortress",
+      "The Strip (Frigate Bay)",
+      "Nevis Peak",
+      "Pinney's Beach",
+      "Old Road Bay"
+    ],
+    "funFact": "Saint Kitts and Nevis was the first Caribbean island to be colonized by both the British and the French."
+  },
+  "BZ": {
+    "food": [
+      "Rice and Beans",
+      "Hudut",
+      "Stew Chicken",
+      "Cochita Pibil",
+      "Fry Jacks"
+    ],
+    "dress": "Varied by ethnicity; Mayan Huipils, Mestizo dresses, and Garifuna colorful garments",
+    "festivals": [
+      "September Celebrations",
+      "Garifuna Settlement Day",
+      "Costa Maya Festival"
+    ],
+    "famousPlaces": [
+      "Great Blue Hole",
+      "Lamanai Mayan Ruins",
+      "Ambergris Caye",
+      "Caye Caulker",
+      "Xunantunich"
+    ],
+    "funFact": "Belize has the second-largest barrier reef in the world and is the only English-speaking country in Central America."
+  },
+  "SV": {
+    "food": [
+      "Pupusas",
+      "Yuca con Chicharrón",
+      "Panes con Pavo",
+      "Tamales de Elote",
+      "Empanadas de Leche"
+    ],
+    "dress": "Traditional clothing features Volcán dresses (embroidered skirts) and scapulars for women",
+    "festivals": [
+      "Fiestas Agostinas",
+      "National Day",
+      "Palm Festival (Panchimalco)"
+    ],
+    "famousPlaces": [
+      "Joyas de Cerén (UNESCO)",
+      "Coatepeque Lake",
+      "El Tunco Beach",
+      "Santa Ana Volcano",
+      "Route of Flowers"
+    ],
+    "funFact": "El Salvador is the smallest country in Central America and is known as the 'Land of Volcanoes'."
+  },
+  "NI": {
+    "food": [
+      "Gallo Pinto",
+      "Vigorón",
+      "Nacatamal",
+      "Indio Viejo",
+      "Quesillo"
+    ],
+    "dress": "Guanacaste or Mestizaje costumes feature white shirts for men and colorful skirts for women",
+    "festivals": [
+      "La Gritería",
+      "Santo Domingo Celebrations",
+      "Palo de Mayo"
+    ],
+    "famousPlaces": [
+      "Granada Islets",
+      "Ometepe Island",
+      "León Cathedral",
+      "Masaya Volcano",
+      "Corn Islands"
+    ],
+    "funFact": "Nicaragua is home to the only freshwater sharks in the world, which live in Lake Nicaragua."
+  },
+  "GY": {
+    "food": [
+      "Pepperpot",
+      "Cook-up Rice",
+      "Roti and Curry",
+      "Metemgee",
+      "Guyanese Patties"
+    ],
+    "dress": "Diverse mix of Indian, African, and Indigenous styles; the white 'Shirtjac' is a formal standard for men",
+    "festivals": [
+      "Mashramani (Republic Day)",
+      "Diwali",
+      "Phagwah (Holi)",
+      "Easter Monday Kite Flying"
+    ],
+    "famousPlaces": [
+      "Kaieteur Falls",
+      "St. George's Cathedral",
+      "Iwokrama Forest",
+      "Shell Beach",
+      "Stabroek Market"
+    ],
+    "funFact": "Kaieteur Falls in Guyana is the world's widest single-drop waterfall, about five times higher than Niagara Falls."
+  },
+  "SR": {
+    "food": [
+      "Pom",
+      "Moksi Alesi",
+      "Roti",
+      "Bami and Nasi Goreng",
+      "Saoto Soup"
+    ],
+    "dress": "Koto dress for women (Creole) with matching headscarf (Angisa) which can convey secret messages",
+    "festivals": [
+      "Keti Koti",
+      "Holi",
+      "Eid al-Fitr",
+      "Pagara Estafette (New Year's)"
+    ],
+    "famousPlaces": [
+      "Paramaribo Historic Inner City",
+      "Central Suriname Nature Reserve",
+      "Brownsberg Park",
+      "Galibi Beach",
+      "Galibi-Marowijne"
+    ],
+    "funFact": "Suriname is the smallest sovereign state in South America and is over 90% covered by pristine rainforest."
+  },
+  "AD": {
+    "food": [
+      "Escudella",
+      "Trinxat",
+      "Canelons",
+      "Coca masegada",
+      "Civet de senglar"
+    ],
+    "dress": "Traditional Pyrenean clothing; men wear the barretina (red cap) and women wear 'gandesa' style dresses",
+    "festivals": [
+      "Canòlich Gathering",
+      "Meritxell Day",
+      "Revifalla",
+      "Andorra la Vella Village Festival"
+    ],
+    "famousPlaces": [
+      "Grandvalira",
+      "Vallnord",
+      "Caldea Spa",
+      "Our Lady of Meritxell Sanctuary",
+      "Madriu-Perafita-Claror Valley"
+    ],
+    "funFact": "Andorra is the only country in the world with two heads of state (Co-Princes): the Bishop of Urgell and the President of France."
+  },
+  "MC": {
+    "food": [
+      "Barbagiuan",
+      "Stocafi",
+      "Socca",
+      "Fougasse",
+      "Pissaladière"
+    ],
+    "dress": "High fashion and luxury wear; the Palace Guard's white summer and black winter uniforms are iconic",
+    "festivals": [
+      "Monaco Grand Prix",
+      "Monte-Carlo Television Festival",
+      "International Circus Festival of Monte-Carlo"
+    ],
+    "famousPlaces": [
+      "Monte Carlo Casino",
+      "Prince's Palace of Monaco",
+      "Oceanographic Museum",
+      "Port Hercules",
+      "Larvotto Beach"
+    ],
+    "funFact": "Monaco is the second-smallest country in the world, yet it has the highest concentration of millionaires per capita."
+  },
+  "SM": {
+    "food": [
+      "Torta Tre Monti",
+      "Bustrengo",
+      "Cappelletti",
+      "Fagioli con le Cotiche",
+      "Rabbit with Fennel"
+    ],
+    "dress": "Traditional clothing influenced by Northern Italian styles, often seen during the Medieval Days festival",
+    "festivals": [
+      "San Marino Day",
+      "Medieval Days",
+      "Investiture of the Captains Regent"
+    ],
+    "famousPlaces": [
+      "Guaita Tower",
+      "Cesta Tower",
+      "Montale Tower",
+      "Piazza della Libertà",
+      "Basilica di San Marino"
+    ],
+    "funFact": "San Marino is the world's oldest republic, founded in 301 AD by a stonemason named Marinus."
+  },
+  "LI": {
+    "food": [
+      "Käsknöpfle",
+      "Ribel",
+      "Hafalaab",
+      "Swiss-style Pastries",
+      "Local Wines"
+    ],
+    "dress": "Traditional Alpine costumes (Tracht) similar to Swiss and Austrian styles are worn on National Day",
+    "festivals": [
+      "National Day (Aug 15)",
+      "LGT Alpine Marathon",
+      "Brazza Festival"
+    ],
+    "famousPlaces": [
+      "Vaduz Castle",
+      "Gutenberg Castle",
+      "Kunstmuseum Liechtenstein",
+      "Malbun Ski Resort",
+      "The Rhine River"
+    ],
+    "funFact": "Liechtenstein is one of the safest countries in the world; most people don't even lock their front doors."
+  },
+  "VA": {
+    "food": [
+      "Italian Cuisine (Pasta, Pizza)",
+      "Abbacchio à la Romana",
+      "Sacred Wine",
+      "Host",
+      "Vatican Pastries"
+    ],
+    "dress": "Clerical vestments; the Swiss Guard's colorful striped uniforms (blue, gold, and red) are world-famous",
+    "festivals": [
+      "Easter Mass",
+      "Christmas Mass",
+      "St. Peter's Day",
+      "Canonization Ceremonies"
+    ],
+    "famousPlaces": [
+      "St. Peter's Basilica",
+      "Vatican Museums",
+      "Sistine Chapel",
+      "St. Peter's Square",
+      "Vatican Gardens"
+    ],
+    "funFact": "Vatican City is the smallest country in the world both by area and population, and it has the world's highest crime rate per capita (mostly pickpocketing by tourists)."
+  },
+  "MK": {
+    "food": [
+      "Tavče Gravče",
+      "Ajvar",
+      "Šopska Salad",
+      "Pastrmajlija",
+      "Ohrid Trout"
+    ],
+    "dress": "Traditional folk costumes feature complex gold and silver thread embroidery and heavy silver jewelry",
+    "festivals": [
+      "Galichnik Wedding Festival",
+      "Vevchani Carnival",
+      "Ohrid Summer Festival"
+    ],
+    "famousPlaces": [
+      "Lake Ohrid",
+      "Skopje Old Bazaar",
+      "Matka Canyon",
+      "Saint Naum Monastery",
+      "Stone Bridge Skopje"
+    ],
+    "funFact": "North Macedonia is the birthplace of Mother Teresa (born in Skopje) and Alexander the Great's ancient kingdom."
+  },
+  "BA": {
+    "food": [
+      "Ćevapi",
+      "Burek",
+      "Begova Čorba",
+      "Sarma",
+      "Baklava"
+    ],
+    "dress": "Traditional costumes vary by ethnicity (Bosniak, Serb, Croat); the 'Fez' was historically worn by urban men",
+    "festivals": [
+      "Sarajevo Film Festival",
+      "Baščaršija Nights",
+      "Mostar Bridge Diving"
+    ],
+    "famousPlaces": [
+      "Stari Most (Old Bridge)",
+      "Baščaršija",
+      "Kravica Waterfalls",
+      "Jahorina Mountain",
+      "Blagaj Tekke"
+    ],
+    "funFact": "Bosnia and Herzegovina is the only country in Europe with three official presidents, one for each major ethnic group."
+  },
+  "ME": {
+    "food": [
+      "Njeguški Pršut",
+      "Kačamak",
+      "Buzara",
+      "Crni Rižot",
+      "Priganice"
+    ],
+    "dress": "The Montenegrin National Costume, featuring a gold-embroidered vest (jelek) and a round cap (kapa)",
+    "festivals": [
+      "Mimosa Festival",
+      "Boka Night",
+      "Lake Fest",
+      "Sea Dance Festival"
+    ],
+    "famousPlaces": [
+      "Kotor Bay",
+      "Durmitor National Park",
+      "Ostrog Monastery",
+      "Sveti Stefan",
+      "Tara River Canyon"
+    ],
+    "funFact": "The Tara River Canyon in Montenegro is the deepest canyon in Europe and the second-deepest in the world after the Grand Canyon."
+  },
+  "XK": {
+    "food": [
+      "Flija",
+      "Tavë Prizreni",
+      "Bakllava",
+      "Suxhuk",
+      "Ajvar"
+    ],
+    "dress": "Fustanella and Qeleshe (felt cap) are traditional for men; embroidered vests and silver jewelry for women",
+    "festivals": [
+      "DokuFest (Documentary Film Festival)",
+      "Sunny Hill Festival",
+      "National Day (Feb 17)"
+    ],
+    "famousPlaces": [
+      "Prizren Old Town",
+      "Rugova Canyon",
+      "Visoki Dečani Monastery",
+      "Gërmia Park",
+      "Marble Cave"
+    ],
+    "funFact": "Kosovo has the youngest population in Europe, with over 50% of the population under the age of 25."
+  },
+  "HT": {
+    "food": [
+      "Soup Joumou",
+      "Griot (Fried Pork)",
+      "Diri ak Djon Djon",
+      "Pikliz",
+      "Pain Patate"
+    ],
+    "dress": "Karabela (folk dress) for women, often made of denim or linen with colorful embroidery and lace",
+    "festivals": [
+      "Haitian Carnival",
+      "Rara Festival",
+      "Ancestors' Day",
+      "Fet Gede"
+    ],
+    "famousPlaces": [
+      "Citadelle Laferrière",
+      "Sans-Souci Palace",
+      "Labadee",
+      "Bassin Bleu",
+      "Jacmel Old Town"
+    ],
+    "funFact": "Haiti was the first independent black-led republic in the world and the first nation to abolish slavery."
+  },
+  "HN": {
+    "food": [
+      "Baleadas",
+      "Sopa de Caracol",
+      "Carne Asada",
+      "Pupusas",
+      "Tamales"
+    ],
+    "dress": "Traditional white dresses with colorful highlights for women and white shirts with hats for men",
+    "festivals": [
+      "Feria Isidra",
+      "Punta Gorda Festival",
+      "Copán Mayan Festival"
+    ],
+    "famousPlaces": [
+      "Copán Ruins",
+      "Roatán Island",
+      "Pico Bonito National Park",
+      "Lake Yojoa",
+      "Cayos Cochinos"
+    ],
+    "funFact": "Honduras is home to the 'Lluvia de Peces' (Rain of Fish), a phenomenon where hundreds of fish are said to fall from the sky every year in Yoro."
+  },
+  "LY": {
+    "food": [
+      "Couscous",
+      "Bazeen",
+      "Asida",
+      "Shakshuka",
+      "Usban"
+    ],
+    "dress": "Traditional 'Jalo' or 'Bedouin' robes with turbans for men and colorful embroidered wraps for women",
+    "festivals": [
+      "National Day",
+      "Al-Moulid al-Nabawi",
+      "Ghadames Festival"
+    ],
+    "famousPlaces": [
+      "Leptis Magna",
+      "Cyrene",
+      "Sabratha",
+      "Ghadames Old Town",
+      "Akakus Mountains"
+    ],
+    "funFact": "Libya has the largest proven oil reserves in Africa and some of the best-preserved Roman ruins in the world."
+  },
+  "SD": {
+    "food": [
+      "Kisra",
+      "Ful Medames",
+      "Gorraasa",
+      "Aseeda",
+      "Sudanese Coffee"
+    ],
+    "dress": "Jalabia for men and 'Tobe' (colorful wrap) for women are the traditional Sudanese garments",
+    "festivals": [
+      "Sufi Whirling Ceremonies",
+      "Eid al-Fitr",
+      "Independence Day"
+    ],
+    "famousPlaces": [
+      "Meroe Pyramids",
+      "Sanganeb Marine National Park",
+      "Jebel Barkal",
+      "Khartoum Confluence",
+      "Port Sudan"
+    ],
+    "funFact": "Sudan has more pyramids than Egypt — over 200 ancient pyramids were built in the Kingdom of Kush."
+  },
+  "ER": {
+    "food": [
+      "Zigni",
+      "Injera",
+      "Hilbet",
+      "Kitcha Fit-fit",
+      "Eritrean Coffee"
+    ],
+    "dress": "Zuria (white cotton dress with embroidery) for women and white tunics for men are traditional",
+    "festivals": [
+      "Independence Day (May 24)",
+      "Fenkil Day",
+      "Meskel"
+    ],
+    "famousPlaces": [
+      "Asmara Art Deco City",
+      "Massawa Old Port",
+      "Dahlak Archipelago",
+      "Senafe Ruins",
+      "Keren"
+    ],
+    "funFact": "Asmara, the capital of Eritrea, is a UNESCO World Heritage site known as 'Little Rome' for its stunning Italian futurist architecture."
+  },
+  "DJ": {
+    "food": [
+      "Skoudehkaris",
+      "Fah-fah",
+      "Laxoox",
+      "Samboosa",
+      "Banana Fritters"
+    ],
+    "dress": "Light cotton wraps similar to Somali and Ethiopian styles; men often wear a 'Macawis' (sarong)",
+    "festivals": [
+      "Independence Day (June 27)",
+      "Eid al-Adha",
+      "Lake Assal Cultural Festival"
+    ],
+    "famousPlaces": [
+      "Lake Assal",
+      "Lake Abbe",
+      "Day Forest National Park",
+      "Tadjoura",
+      "Moucha Island"
+    ],
+    "funFact": "Lake Assal in Djibouti is the lowest point in Africa and the second-saliest body of water in the world after the Don Juan Pond."
+  },
+  "SO": {
+    "food": [
+      "Bariis Iskukaris",
+      "Canjeero",
+      "Samboosa",
+      "Hilib Ari (Goat Meat)",
+      "Shaah (Tea)"
+    ],
+    "dress": "Macawis (sarong) and Koofiyad (cap) for men; Guntiino (colorful wrap) or Dirac for women",
+    "festivals": [
+      "Eid al-Fitr",
+      "Independence Day",
+      "Somali Arts Festival"
+    ],
+    "famousPlaces": [
+      "Laas Geel Cave Paintings",
+      "Mogadishu Old Port",
+      "Berbera Beach",
+      "Cal Madow Mountains",
+      "Kismayo Park"
+    ],
+    "funFact": "Somalia has the longest coastline in mainland Africa, stretching over 3,300 kilometers."
+  },
+  "SS": {
+    "food": [
+      "Wal Wal (Dumplings)",
+      "Kisra",
+      "Kajaik (Fish Soup)",
+      "Millet Porridge",
+      "Asida"
+    ],
+    "dress": "Vibrant beaded jewelry and traditional garments made of animal skins and woven fabrics among Nilotic tribes",
+    "festivals": [
+      "Independence Day (July 9)",
+      "Christian Holidays",
+      "Traditional Tribal Dances"
+    ],
+    "famousPlaces": [
+      "Sudd Wetlands",
+      "Boma National Park",
+      "White Nile",
+      "Juba Cathedral",
+      "Imatong Mountains"
+    ],
+    "funFact": "South Sudan is the youngest country in the world, having gained independence in 2011."
+  },
+  "CF": {
+    "food": [
+      "Fufu",
+      "Kanda",
+      "Chikwangue",
+      "Bouiller",
+      "Palm Butter Stew"
+    ],
+    "dress": "Traditional clothing features colorful textiles and beadwork, often reflecting Central African forest cultures",
+    "festivals": [
+      "Republic Day",
+      "Christmas",
+      "National Food Festival"
+    ],
+    "famousPlaces": [
+      "Dzanga-Sangha National Park",
+      "Boali Falls",
+      "Oubangui River",
+      "Bangui Cathedral",
+      "Chinko Nature Reserve"
+    ],
+    "funFact": "The Central African Republic is home to the Dzanga-Sangha National Park, one of the best places in the world to see forest elephants and gorillas."
+  },
+  "GA": {
+    "food": [
+      "Nyembwe Chicken",
+      "Manioc",
+      "Baked Banana",
+      "Gare aux crabes",
+      "Bouillon de poisson"
+    ],
+    "dress": "Modern Western clothing; traditional ceremonial masks and grass-skirt costumes are used in the Bwiti ritual",
+    "festivals": [
+      "Gabon Carnival",
+      "Independence Day",
+      "Gabon Cultural Festival"
+    ],
+    "famousPlaces": [
+      "Loango National Park",
+      "Ivindo National Park (Kongou Falls)",
+      "Lope National Park",
+      "Franceville",
+      "Libreville Coastal Road"
+    ],
+    "funFact": "Gabon is over 80% covered by tropical rainforest, and much of its coastline is pristine, allowing elephants to walk on the beach."
+  },
+  "GQ": {
+    "food": [
+      "Succotash",
+      "Chicken with Peanut Sauce",
+      "Grilled Fish",
+      "Manioc",
+      "Espinacas con Camarones"
+    ],
+    "dress": "Bubus and Pagnes similar to other West African nations, with local variations among the Fang and Bubi people",
+    "festivals": [
+      "National Day",
+      "Festival of Saint James",
+      "Bata Carnival"
+    ],
+    "famousPlaces": [
+      "Malabo National Park",
+      "Monte Alen National Park",
+      "Annobon Island",
+      "Basile Peak",
+      "Luba Crater"
+    ],
+    "funFact": "Equatorial Guinea is the only country in Africa where Spanish is an official language."
+  },
+  "ST": {
+    "food": [
+      "Calulu",
+      "Arroz Doce",
+      "Bobo de Camarao",
+      "Grilled Fish",
+      "Chocolate (World Class)"
+    ],
+    "dress": "Portuguese-influenced light clothing; traditional 'Pano' wraps for women and loose shirts for men",
+    "festivals": [
+      "Bulawe",
+      "Independence Day",
+      "Saint John's Day"
+    ],
+    "famousPlaces": [
+      "Pico Cão Grande",
+      "Obo National Park",
+      "Lagoa Azul",
+      "Boca do Inferno",
+      "Ilhéu das Rolas"
+    ],
+    "funFact": "Sao Tome and Principe was once the world's largest producer of cocoa and is known as the 'Chocolate Islands'."
+  },
+  "CG": {
+    "food": [
+      "Saka-Saka",
+      "Moambe",
+      "Fufu",
+      "Grilled Fish",
+      "Beignets"
+    ],
+    "dress": "The 'Sapeurs' (La Sape) subculture is famous for its high-fashion, dandy-style dressing in vibrant colors",
+    "festivals": [
+      "FESPAM (Pan-African Music Festival)",
+      "National Day",
+      "Congo Cultural Week"
+    ],
+    "famousPlaces": [
+      "Odzala-Kokoua National Park",
+      "Congo River",
+      "Brazzaville Cathedral",
+      "Lesio-Louna Gorilla Reserve",
+      "Pointe-Noire Beaches"
+    ],
+    "funFact": "Brazzaville, the capital of Republic of the Congo, is located directly across the river from Kinshasa, making them the two closest capitals in the world."
+  },
+  "CD": {
+    "food": [
+      "Moambe Chicken",
+      "Fufu",
+      "Saka-Saka",
+      "Chikwangue",
+      "Liboke (Steamed Fish)"
+    ],
+    "dress": "Liputa (colorful wrap clothing) for women; the 'Sapeurs' culture of Kinshasa is internationally renowned",
+    "festivals": [
+      "Kinshasa Jazz Festival",
+      "Independence Day",
+      "Festival Gungu"
+    ],
+    "famousPlaces": [
+      "Virunga National Park",
+      "Mount Nyiragongo Volcano",
+      "Congo River",
+      "Garamba National Park",
+      "Lola ya Bonobo"
+    ],
+    "funFact": "The Democratic Republic of the Congo is the world's leading producer of cobalt and home to the second-largest rainforest on Earth."
+  },
+  "BI": {
+    "food": [
+      "Buku (Fish from Lake Tanganyika)",
+      "Beans and Bananas",
+      "Brochettes",
+      "Mandazi",
+      "Manioc"
+    ],
+    "dress": "Pagnes (wraps) for women and light shirts for men; traditional drumming outfits are white, green, and red",
+    "festivals": [
+      "Independence Day",
+      "Unity Day",
+      "Royal Drummers of Burundi Performances"
+    ],
+    "famousPlaces": [
+      "Lake Tanganyika",
+      "Rusizi National Park",
+      "Karera Waterfalls",
+      "Source of the Nile (Rutovu)",
+      "Gitega National Museum"
+    ],
+    "funFact": "The Royal Drummers of Burundi are one of the world's most famous percussion troupes and are a UNESCO-recognized intangible heritage."
+  },
+  "MW": {
+    "food": [
+      "Nsima",
+      "Chambo (Fish)",
+      "Kachumbari",
+      "Mbatata (Sweet Potato) biscuits",
+      "Mandasi"
+    ],
+    "dress": "Chitenje fabric wraps for women and light trousers for men; traditional masks are used by the Nyau secret society",
+    "festivals": [
+      "Lake of Stars Music Festival",
+      "Republic Day",
+      "Livingstonia Cultural Festival"
+    ],
+    "famousPlaces": [
+      "Lake Malawi",
+      "Mount Mulanje",
+      "Liwonde National Park",
+      "Zomba Plateau",
+      "Nyika National Park"
+    ],
+    "funFact": "Lake Malawi contains more fish species than any other lake in the world, including hundreds of colorful cichlids."
+  }
+}
